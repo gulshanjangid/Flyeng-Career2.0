@@ -1,0 +1,63 @@
+﻿  Γû▓ Next.js 14.2.25
+  - Environments: .env.local, .env
+  - Experiments (use with caution):
+    ┬╖ turbo
+
+   Creating an optimized production build ...
+node.exe : 
+At C:\Program Files\nodejs\npx.ps1:29 
+char:3
++   & $NODE_EXE $NPX_CLI_JS $args
++   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpeci 
+   fied: (:String) [], RemoteExceptio  
+  n
+    + FullyQualifiedErrorId : NativeCo 
+   mmandError
+ 
+> Build error occurred
+Error: Page config in 
+C:\Users\hp\Desktop\Flyeng 
+Career\Final Folder\app/api/summarizer/
+generate/route.ts is deprecated. 
+Replace `export const config=ΓÇª` with 
+the following:
+Visit https://nextjs.org/docs/app/api-r
+eference/file-conventions/route-segment
+-config for more information.
+    at getPageStaticInfo 
+(C:\Users\hp\Desktop\Flyeng 
+Career\Final Folder\node_modules\next\d
+ist\build\analysis\get-page-static-info
+.js:427:27)
+    at async 
+getStaticInfoIncludingLayouts 
+(C:\Users\hp\Desktop\Flyeng 
+Career\Final Folder\node_modules\next\d
+ist\build\entries.js:108:28)
+    at async 
+C:\Users\hp\Desktop\Flyeng 
+Career\Final Folder\node_modules\next\d
+ist\build\entries.js:410:32
+    at async Promise.all (index 68)
+    at async Promise.all (index 0)
+    at async createEntrypoints 
+(C:\Users\hp\Desktop\Flyeng 
+Career\Final Folder\node_modules\next\d
+ist\build\entries.js:550:5)
+    at async Span.traceAsyncFn 
+(C:\Users\hp\Desktop\Flyeng 
+Career\Final Folder\node_modules\next\d
+ist\trace\trace.js:154:20)
+    at async webpackBuildImpl 
+(C:\Users\hp\Desktop\Flyeng 
+Career\Final Folder\node_modules\next\d
+ist\build\webpack-build\impl.js:104:25)
+    at async 
+C:\Users\hp\Desktop\Flyeng 
+Career\Final Folder\node_modules\next\d
+ist\build\index.js:1006:111
+    at async Span.traceAsyncFn 
+(C:\Users\hp\Desktop\Flyeng 
+Career\Final Folder\node_modules\next\d
+ist\trace\trace.js:154:20)

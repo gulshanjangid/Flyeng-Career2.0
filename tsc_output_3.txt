@@ -1,0 +1,10 @@
+﻿app/ai-tools/bootcamp/html-css-exercises/data.ts(26,1): error TS1127: Invalid character.
+app/ai-tools/bootcamp/html-css-exercises/data.ts(26,2): error TS1435: Unknown keyword or identifier. Did you mean 'export'?
+app/ai-tools/bootcamp/html-css-exercises/data.ts(26,35): error TS1127: Invalid character.
+app/ai-tools/bootcamp/html-css-exercises/data.ts(26,37): error TS1127: Invalid character.
+app/ai-tools/bootcamp/html-css-exercises/data.ts(26,41): error TS1127: Invalid character.
+app/ai-tools/bootcamp/react-exercises/data.ts(26,1): error TS1127: Invalid character.
+app/ai-tools/bootcamp/react-exercises/data.ts(26,2): error TS1435: Unknown keyword or identifier. Did you mean 'export'?
+app/ai-tools/bootcamp/react-exercises/data.ts(26,35): error TS1127: Invalid character.
+app/ai-tools/bootcamp/react-exercises/data.ts(26,37): error TS1127: Invalid character.
+app/ai-tools/bootcamp/react-exercises/data.ts(26,41): error TS1127: Invalid character.

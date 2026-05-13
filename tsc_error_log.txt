@@ -1,0 +1,1 @@
+﻿temp_ai_helper_check.ts(141,1): error TS1005: '}' expected.

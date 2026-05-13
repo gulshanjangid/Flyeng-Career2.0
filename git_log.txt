@@ -1,0 +1,6 @@
+﻿1e03c630 Merge branch 'main' of https://github.com/nikhiljangid120/Flyeng-Career
+18ae889f Merge clean-quiz-feature and deploy UI updates
+e4a93b6b chore: Add script to reset env and remove secrets
+68891b11 feat: Add API endpoint for quiz generation using Groq, with API key fallback and error handling.
+64a6ea64 feat: Add script to test Groq API models and verify connectivity by sending chat completion requests.
+9b8a516c chore: Add script to reset `.env.local` content and update Gemini/Groq API keys.

@@ -1,0 +1,210 @@
+﻿app/ai-tools/bootcamp/react-exercises/data.ts(230,21): error TS1005: ',' expected.
+app/ai-tools/bootcamp/react-exercises/data.ts(230,25): error TS1005: ',' expected.
+app/ai-tools/bootcamp/react-exercises/data.ts(230,28): error TS1005: ',' expected.
+app/ai-tools/bootcamp/react-exercises/data.ts(230,29): error TS1127: Invalid character.
+app/ai-tools/bootcamp/react-exercises/data.ts(230,30): error TS1127: Invalid character.
+app/ai-tools/bootcamp/react-exercises/data.ts(230,31): error TS1127: Invalid character.
+app/ai-tools/bootcamp/react-exercises/data.ts(230,33): error TS1005: ',' expected.
+app/ai-tools/bootcamp/react-exercises/data.ts(230,41): error TS1005: ',' expected.
+app/ai-tools/bootcamp/react-exercises/data.ts(230,45): error TS1127: Invalid character.
+app/ai-tools/bootcamp/react-exercises/data.ts(230,46): error TS1127: Invalid character.
+app/ai-tools/bootcamp/react-exercises/data.ts(230,47): error TS1127: Invalid character.
+app/ai-tools/bootcamp/react-exercises/data.ts(230,49): error TS1005: ',' expected.
+app/ai-tools/bootcamp/react-exercises/data.ts(230,55): error TS1127: Invalid character.
+app/ai-tools/bootcamp/react-exercises/data.ts(230,56): error TS1127: Invalid character.
+app/ai-tools/bootcamp/react-exercises/data.ts(242,10): error TS1005: ',' expected.
+app/ai-tools/bootcamp/react-exercises/data.ts(243,5): error TS1005: ',' expected.
+app/ai-tools/bootcamp/react-exercises/data.ts(396,1): error TS1128: Declaration or statement expected.
+app/ai-tools/bootcamp/react-exercises/data.ts(396,2): error TS1128: Declaration or statement expected.
+app/ai-tools/bootcamp/react-exercises/data.ts(399,6): error TS1005: ';' expected.
+app/ai-tools/bootcamp/react-exercises/data.ts(400,11): error TS1005: ';' expected.
+app/ai-tools/bootcamp/react-exercises/data.ts(488,12): error TS1005: ';' expected.
+app/ai-tools/bootcamp/react-exercises/data.ts(573,2): error TS1128: Declaration or statement expected.
+app/ai-tools/bootcamp/react-exercises/data.ts(576,6): error TS1005: ';' expected.
+app/ai-tools/bootcamp/react-exercises/data.ts(577,11): error TS1005: ';' expected.
+app/ai-tools/bootcamp/react-exercises/data.ts(613,25): error TS1127: Invalid character.
+app/ai-tools/bootcamp/react-exercises/data.ts(613,26): error TS1127: Invalid character.
+app/ai-tools/bootcamp/react-exercises/data.ts(613,27): error TS1127: Invalid character.
+app/ai-tools/bootcamp/react-exercises/data.ts(613,29): error TS1005: ',' expected.
+app/ai-tools/bootcamp/react-exercises/data.ts(613,37): error TS1127: Invalid character.
+app/ai-tools/bootcamp/react-exercises/data.ts(613,38): error TS1127: Invalid character.
+app/ai-tools/bootcamp/react-exercises/data.ts(623,10): error TS1005: ',' expected.
+app/ai-tools/bootcamp/react-exercises/data.ts(624,5): error TS1005: ',' expected.
+app/ai-tools/bootcamp/react-exercises/data.ts(624,6): error TS1128: Declaration or statement expected.
+app/ai-tools/bootcamp/react-exercises/data.ts(627,11): error TS1005: ';' expected.
+app/ai-tools/bootcamp/react-exercises/data.ts(628,11): error TS1005: ';' expected.
+app/ai-tools/bootcamp/react-exercises/data.ts(646,10): error TS1005: ';' expected.
+app/ai-tools/bootcamp/react-exercises/data.ts(647,6): error TS1128: Declaration or statement expected.
+app/ai-tools/bootcamp/react-exercises/data.ts(650,11): error TS1005: ';' expected.
+app/ai-tools/bootcamp/react-exercises/data.ts(651,11): error TS1005: ';' expected.
+app/ai-tools/bootcamp/react-exercises/data.ts(674,10): error TS1005: ';' expected.
+app/ai-tools/bootcamp/react-exercises/data.ts(676,3): error TS1128: Declaration or statement expected.
+app/ai-tools/bootcamp/react-exercises/data.ts(676,4): error TS1128: Declaration or statement expected.
+app/ai-tools/bootcamp/react-exercises/data.ts(734,14): error TS1005: ',' expected.
+app/ai-tools/bootcamp/react-exercises/data.ts(735,7): error TS1109: Expression expected.
+app/ai-tools/bootcamp/react-exercises/data.ts(737,67): error TS1005: ',' expected.
+app/ai-tools/bootcamp/react-exercises/data.ts(738,14): error TS1005: ',' expected.
+app/ai-tools/bootcamp/react-exercises/data.ts(738,15): error TS1137: Expression or comma expected.
+app/ai-tools/bootcamp/react-exercises/data.ts(740,3): error TS1137: Expression or comma expected.
+app/ai-tools/bootcamp/react-exercises/data.ts(740,33): error TS1005: ';' expected.
+app/ai-tools/bootcamp/react-exercises/data.ts(740,37): error TS1110: Type expected.
+app/ai-tools/bootcamp/react-exercises/data.ts(741,31): error TS1005: ';' expected.
+app/ai-tools/bootcamp/react-exercises/data.ts(741,41): error TS1110: Type expected.
+app/ai-tools/bootcamp/react-exercises/data.ts(742,19): error TS1005: ',' expected.
+app/ai-tools/bootcamp/react-exercises/data.ts(742,28): error TS1161: Unterminated regular expression literal.
+app/ai-tools/bootcamp/react-exercises/data.ts(743,1): error TS1128: Declaration or statement expected.
+app/ai-tools/bootcamp/react-exercises/data.ts(769,13): error TS1005: ';' expected.
+app/ai-tools/bootcamp/react-exercises/data.ts(778,13): error TS1005: '>' expected.
+app/ai-tools/bootcamp/react-exercises/data.ts(778,20): error TS1005: ')' expected.
+app/ai-tools/bootcamp/react-exercises/data.ts(778,41): error TS1161: Unterminated regular expression literal.
+app/ai-tools/bootcamp/react-exercises/data.ts(779,3): error TS1128: Declaration or statement expected.
+app/ai-tools/bootcamp/react-exercises/data.ts(783,9): error TS1005: '>' expected.
+app/ai-tools/bootcamp/react-exercises/data.ts(783,16): error TS1005: ';' expected.
+app/ai-tools/bootcamp/react-exercises/data.ts(783,32): error TS1109: Expression expected.
+app/ai-tools/bootcamp/react-exercises/data.ts(786,9): error TS1005: '>' expected.
+app/ai-tools/bootcamp/react-exercises/data.ts(786,16): error TS1005: ';' expected.
+app/ai-tools/bootcamp/react-exercises/data.ts(786,30): error TS1109: Expression expected.
+app/ai-tools/bootcamp/react-exercises/data.ts(787,9): error TS1005: '>' expected.
+app/ai-tools/bootcamp/react-exercises/data.ts(787,16): error TS1005: ';' expected.
+app/ai-tools/bootcamp/react-exercises/data.ts(787,40): error TS1109: Expression expected.
+app/ai-tools/bootcamp/react-exercises/data.ts(788,10): error TS1005: ';' expected.
+app/ai-tools/bootcamp/react-exercises/data.ts(789,5): error TS1128: Declaration or statement expected.
+app/ai-tools/bootcamp/react-exercises/data.ts(789,6): error TS1128: Declaration or statement expected.
+app/ai-tools/bootcamp/react-exercises/data.ts(792,11): error TS1005: ';' expected.
+app/ai-tools/bootcamp/react-exercises/data.ts(793,11): error TS1005: ';' expected.
+app/ai-tools/bootcamp/react-exercises/data.ts(810,10): error TS1005: ';' expected.
+app/ai-tools/bootcamp/react-exercises/data.ts(811,6): error TS1128: Declaration or statement expected.
+app/ai-tools/bootcamp/react-exercises/data.ts(814,11): error TS1005: ';' expected.
+app/ai-tools/bootcamp/react-exercises/data.ts(815,11): error TS1005: ';' expected.
+app/ai-tools/bootcamp/react-exercises/data.ts(849,10): error TS1005: ';' expected.
+app/ai-tools/bootcamp/react-exercises/data.ts(851,3): error TS1128: Declaration or statement expected.
+app/ai-tools/bootcamp/react-exercises/data.ts(851,4): error TS1128: Declaration or statement expected.
+app/ai-tools/bootcamp/react-exercises/data.ts(954,1): error TS1128: Declaration or statement expected.
+app/ai-tools/bootcamp/react-exercises/data.ts(954,2): error TS1128: Declaration or statement expected.
+app/ai-tools/bootcamp/react-exercises/data.ts(957,6): error TS1005: ';' expected.
+app/ai-tools/bootcamp/react-exercises/data.ts(958,11): error TS1005: ';' expected.
+app/ai-tools/bootcamp/react-exercises/data.ts(1024,12): error TS1005: ';' expected.
+app/ai-tools/bootcamp/react-exercises/data.ts(1086,2): error TS1128: Declaration or statement expected.
+app/ai-tools/bootcamp/react-exercises/data.ts(1089,6): error TS1005: ';' expected.
+app/ai-tools/bootcamp/react-exercises/data.ts(1090,11): error TS1005: ';' expected.
+app/ai-tools/bootcamp/react-exercises/data.ts(1113,65): error TS1127: Invalid character.
+app/ai-tools/bootcamp/react-exercises/data.ts(1113,66): error TS1127: Invalid character.
+app/ai-tools/bootcamp/react-exercises/data.ts(1113,67): error TS1127: Invalid character.
+app/ai-tools/bootcamp/react-exercises/data.ts(1113,69): error TS1005: ',' expected.
+app/ai-tools/bootcamp/react-exercises/data.ts(1113,73): error TS1127: Invalid character.
+app/ai-tools/bootcamp/react-exercises/data.ts(1113,74): error TS1127: Invalid character.
+app/ai-tools/bootcamp/react-exercises/data.ts(1117,10): error TS1005: ',' expected.
+app/ai-tools/bootcamp/react-exercises/data.ts(1118,5): error TS1005: ',' expected.
+app/ai-tools/bootcamp/react-exercises/data.ts(1118,6): error TS1128: Declaration or statement expected.
+app/ai-tools/bootcamp/react-exercises/data.ts(1121,11): error TS1005: ';' expected.
+app/ai-tools/bootcamp/react-exercises/data.ts(1122,11): error TS1005: ';' expected.
+app/ai-tools/bootcamp/react-exercises/data.ts(1138,10): error TS1005: ';' expected.
+app/ai-tools/bootcamp/react-exercises/data.ts(1140,3): error TS1128: Declaration or statement expected.
+app/ai-tools/bootcamp/react-exercises/data.ts(1140,4): error TS1128: Declaration or statement expected.
+app/ai-tools/bootcamp/react-exercises/data.ts(1202,1): error TS1128: Declaration or statement expected.
+app/ai-tools/bootcamp/react-exercises/data.ts(1202,2): error TS1128: Declaration or statement expected.
+app/ai-tools/bootcamp/react-exercises/data.ts(1205,6): error TS1005: ';' expected.
+app/ai-tools/bootcamp/react-exercises/data.ts(1206,11): error TS1005: ';' expected.
+app/ai-tools/bootcamp/react-exercises/data.ts(1260,12): error TS1005: ';' expected.
+app/ai-tools/bootcamp/react-exercises/data.ts(1330,2): error TS1128: Declaration or statement expected.
+app/ai-tools/bootcamp/react-exercises/data.ts(1333,6): error TS1005: ';' expected.
+app/ai-tools/bootcamp/react-exercises/data.ts(1334,11): error TS1005: ';' expected.
+app/ai-tools/bootcamp/react-exercises/data.ts(1392,12): error TS1005: ';' expected.
+app/ai-tools/bootcamp/react-exercises/data.ts(1426,32): error TS1005: ',' expected.
+app/ai-tools/bootcamp/react-exercises/data.ts(1426,37): error TS1005: ',' expected.
+app/ai-tools/bootcamp/react-exercises/data.ts(1433,14): error TS1005: ',' expected.
+app/ai-tools/bootcamp/react-exercises/data.ts(1434,5): error TS1005: ',' expected.
+app/ai-tools/bootcamp/react-exercises/data.ts(1434,6): error TS1128: Declaration or statement expected.
+app/ai-tools/bootcamp/react-exercises/data.ts(1436,34): error TS1005: ';' expected.
+app/ai-tools/bootcamp/react-exercises/data.ts(1437,8): error TS1005: ';' expected.
+app/ai-tools/bootcamp/react-exercises/data.ts(1438,11): error TS1005: ';' expected.
+app/ai-tools/bootcamp/react-exercises/data.ts(1441,11): error TS1005: ';' expected.
+app/ai-tools/bootcamp/react-exercises/data.ts(1442,11): error TS1005: ';' expected.
+app/ai-tools/bootcamp/react-exercises/data.ts(1443,14): error TS1005: ';' expected.
+app/ai-tools/bootcamp/react-exercises/data.ts(1444,11): error TS1005: ';' expected.
+app/ai-tools/bootcamp/react-exercises/data.ts(1445,14): error TS1005: ';' expected.
+app/ai-tools/bootcamp/react-exercises/data.ts(1447,3): error TS1128: Declaration or statement expected.
+app/ai-tools/bootcamp/react-exercises/data.ts(1448,1): error TS1128: Declaration or statement expected.
+app/ai-tools/bootcamp/react-exercises/data.ts(1448,2): error TS1128: Declaration or statement expected.
+app/ai-tools/bootcamp/react-exercises/data.ts(1451,6): error TS1005: ';' expected.
+app/ai-tools/bootcamp/react-exercises/data.ts(1452,11): error TS1005: ';' expected.
+app/ai-tools/bootcamp/react-exercises/data.ts(1503,20): error TS1005: ',' expected.
+app/ai-tools/bootcamp/react-exercises/data.ts(1503,25): error TS1127: Invalid character.
+app/ai-tools/bootcamp/react-exercises/data.ts(1503,26): error TS1127: Invalid character.
+app/ai-tools/bootcamp/react-exercises/data.ts(1503,27): error TS1127: Invalid character.
+app/ai-tools/bootcamp/react-exercises/data.ts(1503,29): error TS1005: ',' expected.
+app/ai-tools/bootcamp/react-exercises/data.ts(1503,41): error TS1005: ',' expected.
+app/ai-tools/bootcamp/react-exercises/data.ts(1503,55): error TS1127: Invalid character.
+app/ai-tools/bootcamp/react-exercises/data.ts(1503,56): error TS1127: Invalid character.
+app/ai-tools/bootcamp/react-exercises/data.ts(1504,10): error TS1005: ',' expected.
+app/ai-tools/bootcamp/react-exercises/data.ts(1505,5): error TS1005: ',' expected.
+app/ai-tools/bootcamp/react-exercises/data.ts(1506,3): error TS1128: Declaration or statement expected.
+app/ai-tools/bootcamp/react-exercises/data.ts(1506,4): error TS1128: Declaration or statement expected.
+app/ai-tools/bootcamp/react-exercises/data.ts(1526,34): error TS1005: ',' expected.
+app/ai-tools/bootcamp/react-exercises/data.ts(1527,7): error TS1109: Expression expected.
+app/ai-tools/bootcamp/react-exercises/data.ts(1527,11): error TS1003: Identifier expected.
+app/ai-tools/bootcamp/react-exercises/data.ts(1527,15): error TS1005: ',' expected.
+app/ai-tools/bootcamp/react-exercises/data.ts(1527,18): error TS1005: ',' expected.
+app/ai-tools/bootcamp/react-exercises/data.ts(1527,26): error TS1005: ':' expected.
+app/ai-tools/bootcamp/react-exercises/data.ts(1527,53): error TS1005: ',' expected.
+app/ai-tools/bootcamp/react-exercises/data.ts(1528,13): error TS1005: ':' expected.
+app/ai-tools/bootcamp/react-exercises/data.ts(1528,36): error TS1005: ',' expected.
+app/ai-tools/bootcamp/react-exercises/data.ts(1530,7): error TS1005: ',' expected.
+app/ai-tools/bootcamp/react-exercises/data.ts(1530,17): error TS1003: Identifier expected.
+app/ai-tools/bootcamp/react-exercises/data.ts(1531,7): error TS1005: ',' expected.
+app/ai-tools/bootcamp/react-exercises/data.ts(1534,3): error TS1128: Declaration or statement expected.
+app/ai-tools/bootcamp/react-exercises/data.ts(1538,13): error TS1005: '>' expected.
+app/ai-tools/bootcamp/react-exercises/data.ts(1538,21): error TS1005: ')' expected.
+app/ai-tools/bootcamp/react-exercises/data.ts(1539,16): error TS1005: '>' expected.
+app/ai-tools/bootcamp/react-exercises/data.ts(1539,21): error TS1005: ';' expected.
+app/ai-tools/bootcamp/react-exercises/data.ts(1539,45): error TS1005: ',' expected.
+app/ai-tools/bootcamp/react-exercises/data.ts(1539,61): error TS1005: ',' expected.
+app/ai-tools/bootcamp/react-exercises/data.ts(1539,74): error TS1005: ',' expected.
+app/ai-tools/bootcamp/react-exercises/data.ts(1539,77): error TS1005: ';' expected.
+app/ai-tools/bootcamp/react-exercises/data.ts(1539,108): error TS1109: Expression expected.
+app/ai-tools/bootcamp/react-exercises/data.ts(1540,17): error TS1005: '>' expected.
+app/ai-tools/bootcamp/react-exercises/data.ts(1540,21): error TS1005: ';' expected.
+app/ai-tools/bootcamp/react-exercises/data.ts(1540,38): error TS1161: Unterminated regular expression literal.
+app/ai-tools/bootcamp/react-exercises/data.ts(1541,8): error TS1161: Unterminated regular expression literal.
+app/ai-tools/bootcamp/react-exercises/data.ts(1542,42): error TS1005: ';' expected.
+app/ai-tools/bootcamp/react-exercises/data.ts(1542,46): error TS1110: Type expected.
+app/ai-tools/bootcamp/react-exercises/data.ts(1543,38): error TS1005: ';' expected.
+app/ai-tools/bootcamp/react-exercises/data.ts(1543,49): error TS1161: Unterminated regular expression literal.
+app/ai-tools/bootcamp/react-exercises/data.ts(1546,16): error TS1005: '>' expected.
+app/ai-tools/bootcamp/react-exercises/data.ts(1546,19): error TS1005: ')' expected.
+app/ai-tools/bootcamp/react-exercises/data.ts(1546,47): error TS1005: ':' expected.
+app/ai-tools/bootcamp/react-exercises/data.ts(1546,49): error TS1005: ';' expected.
+app/ai-tools/bootcamp/react-exercises/data.ts(1546,58): error TS1005: ',' expected.
+app/ai-tools/bootcamp/react-exercises/data.ts(1546,66): error TS1109: Expression expected.
+app/ai-tools/bootcamp/react-exercises/data.ts(1547,20): error TS1005: ',' expected.
+app/ai-tools/bootcamp/react-exercises/data.ts(1547,27): error TS1161: Unterminated regular expression literal.
+app/ai-tools/bootcamp/react-exercises/data.ts(1548,23): error TS1005: ';' expected.
+app/ai-tools/bootcamp/react-exercises/data.ts(1548,42): error TS1110: Type expected.
+app/ai-tools/bootcamp/react-exercises/data.ts(1549,10): error TS1161: Unterminated regular expression literal.
+app/ai-tools/bootcamp/react-exercises/data.ts(1550,7): error TS1128: Declaration or statement expected.
+app/ai-tools/bootcamp/react-exercises/data.ts(1551,6): error TS1110: Type expected.
+app/ai-tools/bootcamp/react-exercises/data.ts(1552,3): error TS1128: Declaration or statement expected.
+app/ai-tools/bootcamp/react-exercises/data.ts(1553,1): error TS1128: Declaration or statement expected.
+app/ai-tools/bootcamp/react-exercises/data.ts(1559,13): error TS1005: ';' expected.
+app/ai-tools/bootcamp/react-exercises/data.ts(1561,17): error TS1005: '>' expected.
+app/ai-tools/bootcamp/react-exercises/data.ts(1561,21): error TS1005: ';' expected.
+app/ai-tools/bootcamp/react-exercises/data.ts(1561,32): error TS1109: Expression expected.
+app/ai-tools/bootcamp/react-exercises/data.ts(1561,33): error TS1109: Expression expected.
+app/ai-tools/bootcamp/react-exercises/data.ts(1565,20): error TS1161: Unterminated regular expression literal.
+app/ai-tools/bootcamp/react-exercises/data.ts(1579,13): error TS1005: ';' expected.
+app/ai-tools/bootcamp/react-exercises/data.ts(1580,11): error TS1005: ';' expected.
+app/ai-tools/bootcamp/react-exercises/data.ts(1581,10): error TS1005: ';' expected.
+app/ai-tools/bootcamp/react-exercises/data.ts(1597,14): error TS1005: ';' expected.
+app/ai-tools/bootcamp/react-exercises/data.ts(1598,5): error TS1128: Declaration or statement expected.
+app/ai-tools/bootcamp/react-exercises/data.ts(1598,6): error TS1128: Declaration or statement expected.
+app/ai-tools/bootcamp/react-exercises/data.ts(1600,34): error TS1005: ';' expected.
+app/ai-tools/bootcamp/react-exercises/data.ts(1601,8): error TS1005: ';' expected.
+app/ai-tools/bootcamp/react-exercises/data.ts(1602,11): error TS1005: ';' expected.
+app/ai-tools/bootcamp/react-exercises/data.ts(1616,11): error TS1005: ';' expected.
+app/ai-tools/bootcamp/react-exercises/data.ts(1617,11): error TS1005: ';' expected.
+app/ai-tools/bootcamp/react-exercises/data.ts(1618,14): error TS1005: ';' expected.
+app/ai-tools/bootcamp/react-exercises/data.ts(1619,11): error TS1005: ';' expected.
+app/ai-tools/bootcamp/react-exercises/data.ts(1620,14): error TS1005: ';' expected.
+app/ai-tools/bootcamp/react-exercises/data.ts(1622,3): error TS1128: Declaration or statement expected.
+app/ai-tools/bootcamp/react-exercises/data.ts(1623,1): error TS1128: Declaration or statement expected.
+app/ai-tools/bootcamp/react-exercises/data.ts(1624,1): error TS1128: Declaration or statement expected.

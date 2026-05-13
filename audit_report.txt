@@ -1,0 +1,38 @@
+Total lines: 35228
+--- Scanning for '6. Transformers' title ---
+Line 33953: title: "6. Transformers & Modern LLM Architecture (2025 Edition)",
+Line 34622: title: "6. Transformers & Modern LLM Architecture (2025 Edition)",
+
+--- Scanning for 'genai-6-1' ---
+Line 33956: id: "genai-6-1",
+Line 34447: id: "genai-6-10",
+Line 34492: id: "genai-6-11",
+Line 34536: id: "genai-6-12",
+Line 34573: id: "genai-6-13",
+Line 34625: id: "genai-6-1", title: "6.1 Why Transformers Took Over AI", duration: "15 min", type: "article", content: `
+Line 35071: id: "genai-6-10", title: "6.10 NEW KIDS ON THE BLOCK", duration: "25 min", type: "article", content: `
+Line 35111: id: "genai-6-11", title: "6.11 Why GPT-4 ≠ GPT-4.1 ≠ GPT-4.2 Turbo", duration: "20 min", type: "article", content: `
+Line 35151: id: "genai-6-12", title: "6.12 The REAL Reason Transformers Work", duration: "15 min", type: "article", content: `
+Line 35183: id: "genai-6-13", title: "6.13 Hands-On Visualization Exercises", duration: "45 min", type: "project", content: `
+
+--- Last 20 lines ---
+Line 35209: config = {
+Line 35210: "vocab_size": 50257,    # GPT-2 Tokenizer
+Line 35211: "n_embd": 384,          # Embedding Dimension
+Line 35212: "n_head": 6,            # Number of Heads
+Line 35213: "n_layer": 6,           # Number of Layers
+Line 35214: "block_size": 256,      # Context Window
+Line 35215: "dropout": 0.2
+Line 35216: }
+Line 35217: # Total Params ~ 10 Million
+Line 35218: </pre>
+Line 35219: </div>
+Line 35220: </div>
+Line 35221: </div>
+Line 35222: `, questions: []
+Line 35223: }
+Line 35224: ]
+Line 35225: }
+Line 35226: ]
+Line 35227: }
+Line 35228: }

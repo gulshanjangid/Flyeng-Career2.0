@@ -1,0 +1,30 @@
+﻿3cb2c505 HEAD@{0}: reset: moving to origin/main
+1e03c630 HEAD@{1}: reset: moving to 1e03c630
+3cb2c505 HEAD@{2}: rebase (finish): returning to refs/heads/main
+3cb2c505 HEAD@{3}: rebase (start): checkout origin/main
+1e03c630 HEAD@{4}: pull --tags origin main: Merge made by the 'ort' strategy.
+18ae889f HEAD@{5}: commit (merge): Merge clean-quiz-feature and deploy UI updates
+e4a93b6b HEAD@{6}: checkout: moving from clean-quiz-feature to main
+d52888a1 HEAD@{7}: commit: Implementing the Rupee pricing and mockup checkout flow in the upgrade modal.
+0c7d0697 HEAD@{8}: commit: feat: introduce AI tools page featuring holographic cards and an upcoming tool notification popup.
+e97e7662 HEAD@{9}: commit: Refactoring Hero and app/page.tsx dynamic imports
+1ed5b9c0 HEAD@{10}: commit: feat: introduce validation utilities including Zod schemas, password strength calculation, and authentication error mapping.
+a32f83f8 HEAD@{11}: commit: Polishing Test Case Execution UI and Exam Finalization Flow
+6bccda1a HEAD@{12}: commit: Implementing the multi-step full-screen Exam Submission Sequence with dummy API loaders and validation steps prior to rendering the final report.
+46a9fa78 HEAD@{13}: commit: Updating test execution to only show the first 3 Public tests and modifying code editor UI.
+244738ed HEAD@{14}: commit: feat: Implement TCS mock test engine with proctoring, real-time code playground, and question handling.
+0ffc5c18 HEAD@{15}: commit: feat: establish root application layout with global providers, fonts, and core components.
+203c04d0 HEAD@{16}: commit: feat: implement TCS Mock Test Engine with proctoring, real-time code execution, and scoring.
+ad948bff HEAD@{17}: commit: feat: Implement TCS mock test engine with proctoring, real-time code playground, and question navigation.
+bde9a1dc HEAD@{18}: commit: Looking at tcs-mock-data.ts to locate Coding Logic questions to inject the testCases array format.
+576d94d3 HEAD@{19}: commit: Refactoring the Evaluation Results Modal to explicitly differentiate pure text multiple-choice questions from raw Code string evaluations.
+4e10c06f HEAD@{20}: commit: Integrating WebWorker-based JS Execution Sandbox to bypass API blocks entirely. Updating the mock engine to enforce pseudo test case limits.
+4029f1f9 HEAD@{21}: commit: Updating the Exam Engine to explicitly remove MCQ options for Coding Logic questions and replacing them with a Test Case Evaluation model.
+d37425fb HEAD@{22}: commit: Injecting the comprehensive code editor UI inline for advanced coding questions and enforcing the strict Warning Modal into the main page logic.
+e4e2a796 HEAD@{23}: commit: Implementing Anti-Cheat Proctoring
+6827ed4d HEAD@{24}: commit: Modifying the engine to include a strict start screen that requests fullscreen and a proctoring useEffect that increments strikes on tab switch.
+f3654d82 HEAD@{25}: commit: feat: Add TCS NQT mock test data, a dynamic test page for sets, a chatbot bubble component, and a custom coding injection script.
+94dc2fff HEAD@{26}: commit: Rewriting PYQ Vault to TCS Mocks
+d0133f17 HEAD@{27}: commit: Replacing the broad company index with the highly targeted TCS NQT multi-set mock page.
+476ecc40 HEAD@{28}: commit: feat: Add aptitude practice arena page with tabbed questions and revealable solutions.
+2c3270c0 HEAD@{29}: commit: feat: Implement an interactive practice arena page with categorized aptitude questions and revealable solutions.

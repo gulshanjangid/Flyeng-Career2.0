@@ -1,0 +1,578 @@
+Total lines: 35064
+Line 36: Data Structures & Algorithms Masterclass
+Line 43: 1. Introduction & Complexity
+Line 47: Introduction to DSA
+Line 509: Complexity Analysis Masterclass
+Line 1009: Space Complexity & Memory Deep Dive
+Line 1159: Mathematics for DSA
+Line 1375: The Universal Problem Solving Framework
+Line 1580: 2. Arrays Masterclass
+Line 1584: What Are Arrays & How They Work
+Line 1977: Searching Techniques
+Line 2200: Sorting Fundamentals
+Line 2462: Efficient Sorting Algorithms
+Line 2705: Binary Search Complete System
+Line 2887: Two Pointers Mastery
+Line 3066: Sliding Window Protocol
+Line 3242: Prefix Sums & Subarrays
+Line 3435: Kadane's Algorithm & Max Subarray Patterns
+Line 3635: Rotation, Rearrangement & Partitioning
+Line 3851: Advanced Array Tricks
+Line 3984: 3. Strings: The Textual Universe
+Line 3988: Internals & Memory
+Line 4207: Traversals & Patterns
+Line 4405: Substring Search Algorithms
+Line 4639: Two Pointer Applications
+Line 4790: Sliding Window Protocol
+Line 4954: Hashing & Compression
+Line 5105: Tries & Advanced Processing
+Line 5295: Competitive String Algos
+Line 5477: 4. Linked Lists: The Chain of Nodes
+Line 5481: Introduction to Linked Lists
+Line 5641: Types of Linked Lists
+Line 5797: Basic Operations
+Line 5945: Important Patterns
+Line 6081: Fast & Slow Pointers
+Line 6209: Reversing Linked Lists
+Line 6337: Doubly Linked List
+Line 6464: Circular Linked List
+Line 6580: Sorting & Merging
+Line 6706: Interview Concepts
+Line 6844: Bonus: Arrays vs Linked Lists
+Line 7016: 4. Stacks Masterclass
+Line 7020: Introduction & Operations
+Line 7194: Implementation: Array vs LL
+Line 7348: Applications of Stacks
+Line 7513: Monotonic Stacks (Crucial)
+Line 7644: Special Variants
+Line 7796: Stack & Recursion
+Line 7924: Interview Problems
+Line 8021: 5. Queues Masterclass
+Line 8025: Introduction & Operations
+Line 8215: Implementation & Circular Queue
+Line 8355: Deque & Sliding Window
+Line 8472: Priority Queue & Heaps
+Line 8618: Applications & Interview
+Line 8757: 6. Recursion Masterclass
+Line 8761: Introduction to Recursion
+Line 8907: Types of Recursion
+Line 9024: Recursion vs Iteration
+Line 9176: Recursion Templates
+Line 9287: Recursion on Numbers
+Line 9423: Recursion on Arrays & Strings
+Line 9532: Tree Recursion
+Line 9635: Backtracking
+Line 9760: Recursion Pitfalls
+Line 9846: Converting Recursion to Iteration
+Line 9941: Interview Problem Patterns
+Line 10023: The Master Theorem
+Line 10164: 7. Backtracking Masterclass: The Art of Undo
+Line 10168: What is Backtracking?
+Line 10262: The Universal Template
+Line 10372: Types of Backtracking Problems
+Line 10473: The Step Pattern
+Line 10574: Classic Problems (Templates)
+Line 10678: Famous Problems
+Line 10767: Optimization Techniques
+Line 10853: Backtracking vs DFS
+Line 10933: Transition to DP
+Line 11023: 9. Hash Maps Masterclass
+Line 11027: The O(1) Dream
+Line 11123: Hash Functions
+Line 11222: Collisions: Chaining
+Line 11320: Collisions: Open Addressing
+Line 11408: Implementation Details
+Line 11514: Interview Pattern: Two Sum
+Line 11605: Interview Pattern: Group Anagrams
+Line 11682: Applications & LRU Cache
+Line 11772: 10. Graphs Masterclass
+Line 11776: Introduction to Graphs
+Line 11880: Graph Representation
+Line 11995: Traversals: BFS & DFS
+Line 12138: Traversal Problems
+Line 12223: Directed Graphs & SCC
+Line 12320: Topological Sorting
+Line 12442: Shortest Path Algorithms
+Line 12574: Minimum Spanning Tree
+Line 12661: Disjoint Set Union (DSU)
+Line 12794: Tree as a Graph
+Line 12874: Important Concepts
+Line 12959: Advanced Topics
+Line 13075: Interview Problems
+Line 13170: 11. Greedy Algorithms Masterclass
+Line 13174: Introduction to Greedy
+Line 13256: Key Principles
+Line 13335: Greedy Strategy Patterns
+Line 13423: Greedy + Sorting Problems
+Line 13504: Greedy + Heaps Problems
+Line 13584: Greedy in Graph Algorithms
+Line 13666: Coin Change Greedy
+Line 13756: String & Character Greedy
+Line 13836: Greedy Observations & Techniques
+Line 13912: Famous Interview Problems
+Line 13989: When NOT to use Greedy
+Line 14082: 12. Dynamic Programming Masterclass
+Line 14086: Introduction: The Philosophy of DP
+Line 14303: The Two Pillars: Top-Down vs Bottom-Up
+Line 14403: The 4-Step Framework 📐
+Line 14511: 1D DP: Linear Recurrences
+Line 14608: 2D DP: Grids & Matrices
+Line 14702: String DP: LCS & Edit Distance
+Line 14808: Knapsack Patterns: The 'Take or Leave' Method
+Line 14903: DP on Trees
+Line 14986: Deep Dive: DP + Bitmasking 🎭
+Line 15065: Deep Dive: Digit DP 🔢
+Line 15146: Extreme Deep Dive: Profile DP 🧱
+Line 15228: 13. Trie Masterclass
+Line 15232: Introduction to Tries
+Line 15307: Structure of a Trie Node
+Line 15384: Basic Trie Operations
+Line 15457: Implementation Approaches
+Line 15534: Applications of Tries
+Line 15611: Variants of Tries
+Line 15680: Trie + Other Structures
+Line 15745: Important Interview Problems
+Line 15822: Bitwise Trie (XOR)
+Line 15891: Complexity Analysis
+Line 15967: 14. Segment Tree Masterclass
+Line 15971: Introduction to Range Queries
+Line 16050: What is a Segment Tree?
+Line 16129: Segment Tree Construction
+Line 16207: Range Query Operations
+Line 16283: Range Update Operations
+Line 16362: Lazy Propagation
+Line 16441: Segment Tree Variants
+Line 16518: Comparison with Other Structures
+Line 16587: Real Interview Use Cases
+Line 16662: Important Problems
+Line 16741: 15. Bit Manipulation Masterclass
+Line 16745: Introduction to Bits
+Line 16840: Basic Bit Operations
+Line 16943: Common Bit Tricks
+Line 17047: Bitmasking
+Line 17140: Power of XOR
+Line 17227: Bit Manipulation Patterns
+Line 17306: Bitsets
+Line 17397: Binary Trie (Bitwise Trie)
+Line 17483: Important Interview Problems
+Line 17566: When Bit Manipulation Shines
+Line 17642: 16. Pattern Mastery - Endgame
+Line 17646: Array & Searching Patterns (1-9)
+Line 18528: String Patterns (10-13)
+Line 18821: Linked List Patterns (14-15)
+Line 19120: Stack & Queue Patterns (16-18)
+Line 19432: Tree Patterns (19-22)
+Line 19837: Graph Patterns (23-26)
+Line 20164: Greedy Patterns (27-29)
+Line 20539: Modern C++ Programming
+Line 20546: 1. Getting Started
+Line 20550: Setting up Your Environment
+Line 20641: Your First C++ Program
+Line 20733: Java Development
+Line 20740: 1. Java Basics
+Line 20744: Introduction to Java
+Line 20815: Python for Everyone
+Line 20822: 1. Python Basics
+Line 20826: Why Python?
+Line 20895: Generative AI
+Line 20902: 1. Introduction to Generative AI & The New Computing Era
+Line 20906: 1.1 What is Generative AI?
+Line 20944: 1.2 The Shift: From Information to Intelligence
+Line 20982: 1.3 Why GenAI Matters (The Four Forces)
+Line 21023: 1.4 Industry Applications (2025 Deep Dive)
+Line 21063: 1.5 AI vs ML vs DL vs GenAI
+Line 21112: 1.6 Large Language Models (LLMs) in 2025
+Line 21161: 1.7 Skills Required for a GenAI Engineer (Post-2025)
+Line 21200: 1.8 The 2025 GenAI Tech Stack
+Line 21242: 1.9 Career Paths in the GenAI Era
+Line 21272: 1.10 Why Coding Still Matters in 2025+
+Line 21305: 1.11 The Journey Ahead in This Course
+Line 21336: 2. Thinking Like an AI Engineer & VIBE Coding
+Line 21340: 2.1 The VIBE Coding Philosophy
+Line 21388: 2.2 What is VIBE Coding?
+Line 21433: 2.3 The AI Engineer Mindset
+Line 21472: 2.4 Mastering Prompt Engineering (2025 Standards)
+Line 21527: 2.5 Advanced Prompting Techniques
+Line 21595: 2.6 Handling Hallucinations
+Line 21632: 2.7 Chain of Thought & Reasoning Patterns
+Line 21673: 2.8 Tools & Frameworks Overview (VIBE Toolbelt)
+Line 21724: 2.9 Building Your First AI App (VIBE‑First)
+Line 21764: 2.10 Testing & Evaluation for Prompts and Flows
+Line 21814: 2.11 Module 2 Wrap-up: From Prompts to Systems
+Line 21846: 3. Core Python for AI Engineers (Hybrid Track)
+Line 21850: 3.1 Why Python Still Dominates AI (2025)
+Line 21892: 3.2 Modern Python Setup for AI Work
+Line 21937: 3.3 Python 3.11+ Features That Matter for AI
+Line 21974: 3.4 Data Structures, Types & Dataclasses for LLM Workflows
+Line 22013: 3.5 Async IO Basics for AI Engineers
+Line 22048: 3.6 Essential Async Patterns for LLM & RAG Pipelines
+Line 22082: 3.7 Working with HTTP, JSON & APIs (LLM-Ready)
+Line 22107: 3.8 Intro to FastAPI: The AI Backend Standard
+Line 22136: 3.9 Structuring an AI-Focused Python Project
+Line 22166: 3.10 Configuration, Secrets & Environments
+Line 22193: 3.11 Mini Project: Your First AI-Ready Python Service
+Line 22228: 3.12 Module 3 Wrap-up: From Python Scripts to AI Services
+Line 22259: 4. Data Foundations for LLMs
+Line 22263: 4.1 Why Data Design Matters for LLMs
+Line 22296: 4.2 Tokens, Context Windows & Costs (2025)
+Line 22337: 4.3 What Are Embeddings? Intuition & Use
+Line 22380: 4.4 NumPy for Vector Thinking
+Line 22415: 4.5 Pandas for Text & Metadata Pipelines
+Line 22458: 4.6 Data Cleaning for RAG & Agents
+Line 22492: 4.7 Chunking: From Simple to Agentic
+Line 22523: 4.8 Chunking for Cost, Latency & Quality
+Line 22561: 4.9 Metadata & Schemas for LLM Workflows
+Line 22597: 4.10 Preparing a Knowledge Base for RAG
+Line 22634: 4.11 Mini Project: Data Pipeline for a Small RAG System
+Line 22669: 4.12 Module 4 Wrap-up: From Raw Text to LLM-Ready Data
+Line 22700: 5. ML Foundations for LLM Understanding (Only Essentials)
+Line 22704: 5.1 Why You Need “Just Enough ML” for LLMs
+Line 22737: 5.2 The Minimal Math: Vectors, Similarity & Probabilities
+Line 22778: 5.3 From “Classic ML” to Foundation Models
+Line 22807: 5.4 How Language Models Learn (Conceptual)
+Line 22852: 5.5 Transformers: The Engine Behind LLMs
+Line 22895: 5.6 Modern LLM Variants: MoE, Long-Context & SLMs
+Line 22932: 5.7 Embeddings, RAG, and Fine-Tuning: When to Use What
+Line 22969: 5.8 Core Evaluation Ideas for LLM Behavior
+Line 23008: 5.9 Mini Project: Reasoning About Models Without Training Them
+Line 23040: 5.10 Module 5 Wrap-up: ML Intuition for GenAI Engineers
+Line 23071: 6. Transformers & Modern LLM Architecture
+Line 23075: 6.1 Why Architecture Matters for Engineers
+Line 23108: 6.2 From Tokens to Vectors to Layers
+Line 23149: 6.3 The Transformer Block: Attention & Feed-Forward
+Line 23182: 6.4 KV Cache & Long-Context Efficiency
+Line 23219: 6.5 Mixture-of-Experts (MoE) LLMs
+Line 23260: 6.6 Hybrid Mamba‑Transformer & State-Space Models
+Line 23296: 6.7 Open-Weight vs Proprietary: Architecture Implications
+Line 23329: 6.8 Training Foundation Models (Conceptual Overview)
+Line 23370: 6.9 Architecture and Inference Trade-offs for Engineers
+Line 23410: 6.10 Mini Project: Architecture-Aware Model Selection
+Line 23441: 6.11 Module 6 Wrap-up: Architecture as a Design Tool
+Line 23472: 7. Working with LLMs in Python
+Line 23476: 7.1 Why Python is the LLM Control Plane
+Line 23509: 7.2 LLM Provider Landscape (Cloud & Local, Dec 2025)
+Line 23550: 7.3 Unified Python Client Patterns
+Line 23583: 7.4 Making Your First Cloud LLM Call from Python
+Line 23615: 7.5 Async LLM Calls: Scaling Beyond One Request at a Time
+Line 23655: 7.6 Streaming Responses: ChatGPT-Style UX from Python
+Line 23685: 7.7 Local Inference with Ollama, vLLM & Friends
+Line 23721: 7.8 Designing an LLM Service Layer in Python
+Line 23752: 7.9 Cost, Latency & Reliability Considerations in Code
+Line 23783: 7.10 Integrating LLMs into FastAPI Backends
+Line 23813: 7.11 Mini Project: Multi-Model Python Chat Backend
+Line 23855: 7.12 Module 7 Wrap-up: Python as Your AI Remote Control
+Line 23886: 8. Advanced Prompt Engineering & Reasoning Patterns
+Line 23890: 8.1 From “Nice Prompts” to Reasoning Systems
+Line 23925: 8.2 Modern Prompt Design Blueprint (2025)
+Line 23959: 8.3 Role, Persona & System-Level Prompting
+Line 23989: 8.4 Chain-of-Thought & Deliberate Reasoning
+Line 24030: 8.5 Tree-of-Thought & Structured Search over Ideas
+Line 24076: 8.6 ReAct, Reflexion & Self-Critique Patterns
+Line 24113: 8.7 Handling Hallucinations with Prompt Patterns
+Line 24145: 8.8 Automated Prompt Optimization with DSPy
+Line 24177: 8.9 Choosing the Right Reasoning Strategy
+Line 24222: 8.10 Hands-on Concept: Designing a Robust Prompt Contract
+Line 24251: 8.11 Mini Project: Reasoning Upgrade for a Simple App
+Line 24274: 8.12 Module 8 Wrap-up: From Prompting to Programmatic Reasoning
+Line 24305: 9. AI Agents & Automation
+Line 24309: 9.1 What Are AI Agents (2025 Reality)?
+Line 24344: 9.2 Agent Architecture: Brains, Tools, Memory, Environment
+Line 24387: 9.3 Function / Tool Calling: The Hands of the Agent
+Line 24422: 9.4 Tooling Best Practices & Safety
+Line 24453: 9.5 Agent Frameworks Landscape (2025)
+Line 24498: 9.6 LangChain & LangGraph: Graph-Based Agent Workflows
+Line 24526: 9.7 Multi-Agent Systems: Roles, Collaboration & Handoffs
+Line 24563: 9.8 Memory for Agents: Short-Term, Long-Term & RAG
+Line 24592: 9.9 Observability & Evaluation for Agents
+Line 24621: 9.10 Practical Use Cases: Agents in Real Workflows
+Line 24662: 9.11 Mini Project: Your First Tool-Using Python Agent
+Line 24704: 9.12 Module 9 Wrap-up: Agents as the Execution Layer
+Line 24735: 10. RAG Systems & Enterprise Knowledge Engines
+Line 24739: 10.1 Why RAG Is the Default for Enterprise AI (2025)
+Line 24774: 10.2 RAG Basics: The Retrieve–Then–Generate Loop
+Line 24813: 10.3 Advanced RAG Types: Hybrid, Long, Agentic & GraphRAG
+Line 24843: 10.4 Designing Retrieval Pipelines: From Query to Context
+Line 24880: 10.5 Vector Databases for RAG (Pinecone, Weaviate, Qdrant)
+Line 24911: 10.6 Data Preparation & Chunking Strategies
+Line 24947: 10.7 Prompting Patterns for Grounded RAG Answers
+Line 24972: 10.8 GraphRAG & Hybrid Graph-Based Retrieval
+Line 25006: 10.9 RAG for Compliance, Governance & Explainability
+Line 25043: 10.10 RAG + Agents: Knowledge-Driven Automation
+Line 25076: 10.11 Mini Project: Build a Production-Style RAG Knowledge Engine
+Line 25095: 10.12 Module 10 Wrap-up: From Search to Enterprise Knowledge Engines
+Line 25126: 11. Multimodal AI Systems
+Line 25130: 11.1 Why Multimodal AI Is the 2025 Default
+Line 25165: 11.2 Multimodal LLMs & Vision–Language Models (VLMs)
+Line 25208: 11.3 Core Multimodal Tasks & Use Cases
+Line 25238: 11.4 Multimodal RAG Fundamentals
+Line 25272: 11.5 Designing Pipelines for Documents with Images
+Line 25294: 11.6 Audio & Video Understanding
+Line 25327: 11.7 Building Multimodal RAG Architectures
+Line 25367: 11.8 Multimodal Agents & Workflows
+Line 25393: 11.9 Evaluation & UX for Multimodal Systems
+Line 25421: 11.10 Practical Use Cases by Industry
+Line 25456: 11.11 Mini Project: Multimodal Document or Media Copilot
+Line 25479: 11.12 Module 11 Wrap-up: Beyond Text-Only AI
+Line 25510: 12. Vector Databases & Memory Architectures
+Line 25514: 12.1 Why Memory Is the Real Moat
+Line 25554: 12.2 Vector Databases 101 (Concepts & Roles)
+Line 25588: 12.3 The 2025 Vector DB Landscape
+Line 25622: 12.4 Pinecone vs Weaviate vs Qdrant (RAG Focus)
+Line 25666: 12.5 Index Structures, Quantization & Performance
+Line 25694: 12.6 Context Engineering & Memory Architectures
+Line 25734: 12.7 Designing Schemas, Collections & Tenants
+Line 25761: 12.8 Hybrid, Multi-Vector & Sparse Retrieval
+Line 25790: 12.9 Long-Context & “Infinite Memory” Tricks
+Line 25815: 12.10 Choosing and Operating a Vector DB
+Line 25841: 12.11 Mini Project: Design a Memory Layer
+Line 25878: 12.12 Module 12 Wrap-up: Context Engines
+Line 25909: 13. Full-Stack AI with JavaScript/TypeScript
+Line 25913: 13.1 Why TypeScript & Next.js Are the AI Frontend Standard
+Line 25948: 13.2 The 2025 Frontend AI Stack Overview
+Line 25986: 13.3 Getting Started: Project Setup & Architecture
+Line 26022: 13.4 Vercel AI SDK: Model-Agnostic Frontend Toolkit
+Line 26048: 13.5 Building a Streaming Chat UI in Next.js
+Line 26076: 13.6 API Routes & Server Actions for AI
+Line 26101: 13.7 End-to-End Type Safety with tRPC
+Line 26130: 13.8 Connecting to RAG & Memory Backends
+Line 26155: 13.9 Integrating Agents & Tools into the UI
+Line 26181: 13.10 Deployment on Vercel & Edge Considerations
+Line 26211: 13.11 Mini Project: Full-Stack AI App (Chat + RAG)
+Line 26234: 13.12 Module 13 Wrap-up: Shipping Real AI Products
+Line 26265: 14. Deployment, Evaluation & Monitoring of AI Systems
+Line 26269: 14.1 From Prototype to Production Mindset
+Line 26308: 14.2 Deployment Patterns for LLM Backends
+Line 26337: 14.3 Security, Privacy & AI Impact Assessments
+Line 26376: 14.4 LLM Evaluation Fundamentals
+Line 26412: 14.5 Modern LLMOps & Observability Stack
+Line 26439: 14.6 Tracing & Logging for RAG and Agents
+Line 26464: 14.7 Automated & Human-in-the-Loop Evaluation
+Line 26492: 14.8 Cost & Performance Monitoring
+Line 26521: 14.9 Guardrails, Policies & Fallbacks
+Line 26550: 14.10 Release Management: Versions & Canary
+Line 26576: 14.11 Mini Project: Hardening an AI Feature
+Line 26599: 14.12 Module 14 Wrap-up: Production-Ready AI Engineering
+Line 26630: 15. Capstones & Modern AI Tech Stacks
+Line 26634: 15.1 Capstone Overview & Architecture Choices
+Line 26680: 15.2 TanStack AI Full-Stack Copilot (Web)
+Line 26711: 15.3 LangChain + Next.js RAG App (Web)
+Line 26735: 15.4 FastAPI + Streamlit Prototyping Stack
+Line 26769: 15.5 Vercel AI + React Native Mobile Copilot
+Line 26790: 15.6 Agentic Python + SolidJS Multi-Agent System
+Line 26822: 15.7 From Simple Bots to AI Website Builder
+Line 26848: 15.8 MCP-Style Servers & Tool Ecosystems
+Line 26881: 15.9 Final Portfolio Assembly
+Line 26906: 16. AI Ecosystem, Careers & Product Thinking
+Line 26910: 16.1 2025 AI Wars & Model Ecosystem
+Line 26949: 16.2 AI Dev Environments: IDEs & Agentic Terminals
+Line 26987: 16.3 AI Automations, n8n & No-Code Agents
+Line 27013: 16.4 RAG & Agents in the Real World
+Line 27043: 16.5 Multimodal, Edge & On-Device AI
+Line 27070: 16.6 Vector Databases, Memory & Context Engineering
+Line 27092: 16.7 AI Hype, Bubble Risk & Governance
+Line 27114: 16.8 AI Job Roles & Hiring
+Line 27150: 16.9 Product Thinking & Monetization
+Line 27174: 16.10 Your 12-Month AI Career Roadmap
+Line 27266: 2.3 The AI Engineer Mindset
+Line 27305: 2.4 Mastering Prompt Engineering (2025 Standards)
+Line 27360: 2.5 Advanced Prompting Techniques
+Line 27428: 2.6 Handling Hallucinations
+Line 27465: 2.7 Chain of Thought & Reasoning Patterns
+Line 27506: 2.8 Tools & Frameworks Overview (VIBE Toolbelt)
+Line 27557: 2.9 Building Your First AI App (VIBE‑First)
+Line 27597: 2.10 Testing & Evaluation for Prompts and Flows
+Line 27647: 2.11 Module 2 Wrap-up: From Prompts to Systems
+Line 27679: Java Master Course (2025)
+Line 27682: 1. Basics & Program Structure
+Line 27686: 1.11 Best Practices
+Line 27724: 2. Control Flow, Loops & Methods
+Line 27728: 2.1 Conditional Statements
+Line 27770: 2.2 Looping Constructs
+Line 27814: 2.3 Loop Control Statements
+Line 27850: 2.4 Patterns with Loops (DSA Warmup)
+Line 27909: 2.5 Methods in Java (Functions)
+Line 27943: 2.6 Method Overloading
+Line 27976: 2.7 Pass-by-Value Concept
+Line 28015: 2.8 Scope, Lifetime & Access
+Line 28045: 2.9 Recursion — The First Touch
+Line 28082: 2.10 Best Practices
+Line 28117: 3. Object-Oriented Programming (OOP)
+Line 28121: 3.1 What is OOP?
+Line 28152: 3.2 Classes & Objects
+Line 28192: 3.3 Constructors
+Line 28228: 3.4 The 'this' Keyword
+Line 28255: 3.5 Access Modifiers
+Line 28290: 3.6 Encapsulation
+Line 28318: 3.7 Static Keyword
+Line 28347: 3.8 Inheritance
+Line 28379: 3.9 Method Overriding
+Line 28418: 3.10 The 'super' Keyword
+Line 28448: 3.11 Final Keyword
+Line 28479: 3.12 Object Lifecycle & Memory
+Line 28523: 3.13 Real Use Cases in DSA
+Line 28561: 3.14 Best Practices
+Line 28603: 4. Advanced OOP in Java
+Line 28607: 4.1 Abstraction — Hiding Complexity
+Line 28637: 4.2 Abstract Classes
+Line 28671: 4.3 Interfaces (Modern Java)
+Line 28705: 4.4 Abstract Class vs Interface
+Line 28741: 4.5 Polymorphism (Deep Dive)
+Line 28772: 4.6 Composition vs Aggregation
+Line 28808: 4.7 Enums
+Line 28841: 4.8 Nested & Inner Classes
+Line 28869: 4.9 Anonymous Classes
+Line 28897: 4.10 Object Class methods
+Line 28932: 4.11 Best Practices in Advanced OOP
+Line 28975: 5. JVM, Memory Model & Exception Handling
+Line 28979: 5.1 Java Runtime Architecture
+Line 29026: 5.2 JVM Architecture Layers
+Line 29071: 5.3 Java Memory Model
+Line 29112: 5.4 Garbage Collection (GC)
+Line 29152: 5.5 Exception Handling
+Line 29176: 5.6 Exception Hierarchy
+Line 29221: 5.7 try-catch-finally
+Line 29251: 5.8 Custom Exceptions
+Line 29283: 5.9 throw vs throws
+Line 29311: 5.10 Assertions
+Line 29334: 5.11 Best Practices
+Line 29376: 6. Java Collections Framework (JCF)
+Line 29380: 6.1 What is the Collections Framework?
+Line 29415: 6.2 Core Root Interfaces
+Line 29461: 6.3 List Implementations
+Line 29502: 6.4 Set Implementations
+Line 29541: 6.5 Map Implementations
+Line 29579: 6.6 Queue & Deque
+Line 29614: 6.7 Sorting & Comparators
+Line 29645: 6.8 Immutable & Concurrent
+Line 29672: 6.9 Time Complexity Reference
+Line 29708: 6.10 Mistakes Beginners Make
+Line 29750: 7. Stream API & Functional Programming
+Line 29754: 7.1 What is Functional Programming?
+Line 29798: 7.2 Lambda Expressions
+Line 29845: 7.3 Functional Interfaces
+Line 29888: 7.4 Comparator with Lambda
+Line 29936: 7.5 STREAM API
+Line 29972: 7.6 Core Stream Operations
+Line 30013: 7.7 Optional Class
+Line 30048: 7.8 Parallel Streams
+Line 30081: 7.9 Performance Considerations
+Line 30117: 7.10 Best Practices
+Line 30159: 8. Generics, Annotations & Reflection
+Line 30163: 8.1 Why Generics?
+Line 30209: 8.2 Generic Classes & Methods
+Line 30250: 8.3 Wildcards in Generics
+Line 30291: 8.4 Type Erasure
+Line 30336: 8.5 Annotations
+Line 30379: 8.6 Custom Annotations
+Line 30416: 8.7 Reflection API
+Line 30461: 8.8 File Handling (NIO)
+Line 30502: 8.9 Serialization
+Line 30535: 8.10 Best Practices
+Line 30584: 9. High-Performance Java for DSA
+Line 30588: 9.1 Fast I/O Techniques
+Line 30635: 9.2 String Handling
+Line 30692: 9.3 Collections Performance
+Line 30725: 9.4 Custom Comparators
+Line 30769: 9.5 Bit Manipulation
+Line 30809: 9.6 Recursion vs Iteration
+Line 30849: 9.7 Threading Basics
+Line 30890: 9.8 DSA Templates
+Line 30934: 9.9 Reducing TLE
+Line 30981: 9.10 JVM Flags
+Line 31013: 9.11 Best Practices
+Line 31055: 10. Building Real-World Java Projects
+Line 31059: 10.1 Project Building Principles
+Line 31107: 10.2 Beginner Projects
+Line 31143: 10.3 Resume-Ready Projects
+Line 31195: 10.4 Project Blueprint
+Line 31248: 10.5 Showcase Tips
+Line 31296: 11. What Next After Core Java?
+Line 31300: 11.1 Your New Superpowers
+Line 31338: 11.2 The Four Main Roads
+Line 31395: 11.3 Phase 2 Roadmap
+Line 31431: 11.4 Advanced Topics
+Line 31475: 11.5 Portfolio Strategy
+Line 31510: 11.6 Industry Expectations
+Line 31551: 11.7 Common Mistakes
+Line 31585: 11.8 3-Month Plan
+Line 31616: 11.9 Final Words
+Line 31648: Generative AI & The New Computing Era
+Line 31655: 1. Introduction to Generative AI & The New Computing Era
+Line 31659: 1.1 What is Generative AI?
+Line 31707: 1.2 The Shift: From Information to Intelligence
+Line 31753: 1.3 Why GenAI Matters (The Four Forces)
+Line 31806: 1.4 Industry Applications
+Line 31859: 1.5 AI vs ML vs DL vs GenAI
+Line 31911: 1.6 Large Language Models (LLMs)
+Line 31957: 1.7 Skills Required for a GenAI Engineer
+Line 32006: 1.8 The GenAI Tech Stack
+Line 32056: 1.9 Career Paths
+Line 32092: 1.10 Why Coding Still Matters
+Line 32133: 1.11 The Journey Ahead
+Line 32177: 2. Thinking Like an AI Engineer & VIBE Coding
+Line 32181: 2.1 The VIBE Coding Philosophy
+Line 32237: 2.2 What is VIBE Coding?
+Line 32303: 2.3 The AI Engineer Mindset
+Line 32361: 2.4 Mastering Prompt Engineering
+Line 32406: 2.5 Advanced Prompting Techniques
+Line 32453: 2.6 Handling Hallucinations
+Line 32490: 2.7 Chain of Thought & Reasoning
+Line 32530: 2.8 Tools & Frameworks Overview
+Line 32573: 2.9 Building Your First AI App
+Line 32639: 2.10 Testing & Evaluation
+Line 32671: 2.11 Module 2 Wrap-up
+Line 32701: 3. Core Python for Generative AI Engineers
+Line 32705: 3.1 Why Python is the GenAI Control Layer
+Line 32767: 3.2 Python Setup for AI Engineering (2025)
+Line 32824: 3.3 Python Essentials BUT GenAI-First
+Line 32869: 3.4 Python Data Types for AI
+Line 32925: 3.5 Collections & Pydantic
+Line 32968: 3.6 Modular Coding for AI Systems
+Line 33015: 3.7 File Handling as Dataset Ingestion
+Line 33052: 3.8 Functions as AI Behaviors
+Line 33091: 3.9 OOP for Agents & Model Wrappers
+Line 33125: 3.10 Async Python (Must-Have Skill)
+Line 33162: 3.11 Typing System (2025 Standard)
+Line 33199: 3.12 Interfacing with APIs
+Line 33229: 3.13 The Python -> JS Bridge
+Line 33272: 4. Data Foundations for Generative AI Systems
+Line 33276: 4.1 Why Data Matters More Than Models
+Line 33318: 4.2 Understanding Tokens: The Atom of AI
+Line 33370: 4.3 Text Cleaning for GenAI Pipelines
+Line 33419: 4.4 NumPy: The Language of Embeddings
+Line 33452: 4.5 Pandas: Structuring AI Knowledge
+Line 33496: 4.6 Embeddings: The Heart of RAG
+Line 33539: 4.7 Chunking: The Hidden Skill Behind RAG
+Line 33580: 4.8 Vector Storage: The Brain Outside the Model
+Line 33625: 4.9 RAG Foundations (Foreshadowing)
+Line 33673: 4.9 RAG Foundations
+Line 33741: 4.10 Working with Real Data Formats
+Line 33777: 4.11 The GenAI Data Pipeline
+Line 33825: 4.12 Hands-On Mini Projects
+Line 33875: 5. Machine Learning Foundations for LLM Engineers
+Line 33879: 5.1 Why ML Still Matters in the GenAI Era
+Line 33926: 5.2 The Three Learning Paradigms (Modern View)
+Line 33980: 5.3 What is a Model, Really?
+Line 34018: 5.4 Datasets — The Hidden Power
+Line 34056: 5.5 Features → Embeddings → Meaning
+Line 34093: 5.6 Loss Function — The Model's Teacher
+Line 34133: 5.7 Optimization — How Models Learn
+Line 34173: 5.8 Neural Networks — The Real Magic
+Line 34217: 5.9 ML Mental Models Every GenAI Engineer Needs
+Line 34260: 5.10 The GenAI Decision Matrix
+Line 34306: 5.11 Minimal Hands-On — REAL ML
+Line 34355: 5.12 Why We Stop Here Before Transformers
+Line 34394: 6. Transformers & Modern LLM Architecture (2025 Edition)
+Line 34398: 6.1 Why Transformers Took Over AI
+Line 34460: 6.2 The Transformer Mental Model
+Line 34520: 6.3 The Core Innovation: Attention
+Line 34586: 6.4 Positional Encoding (OLD) vs Modern Approaches (2025)
+Line 34639: 6.5 The Modern LLM Stack
+Line 34702: 6.6 Multi-Head Attention (MHA)
+Line 34749: 6.7 Decoder-Only vs Encoder-Decoder
+Line 34802: 6.8 KV Cache — Why GPT Feels Fast
+Line 34846: 6.9 Context Windows (2025 Reality)
+Line 34889: 6.10 NEW KIDS ON THE BLOCK (2025 Architectures)
+Line 34934: 6.11 Why GPT-4 ≠ GPT-4.1 ≠ GPT-4.2 Turbo
+Line 34978: 6.12 The REAL Reason Transformers Work
+Line 35015: 6.13 Hands-On Visualization Exercises

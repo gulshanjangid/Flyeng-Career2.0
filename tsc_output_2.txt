@@ -1,0 +1,9 @@
+app/ai-tools/code-explainer/app/page.tsx(11,27): error TS2307: Cannot find module 'react-markdown' or its corresponding type declarations.
+components/ui/chart.tsx(102,3): error TS2339: Property 'payload' does not exist on type 'Omit<Props<ValueType, NameType>, PropertiesReadFromContext> & { active?: boolean | undefined; includeHidden?: boolean | undefined; ... 17 more ...; axisId?: AxisId | undefined; } & ClassAttributes<...> & HTMLAttributes<...> & { ...; }'.
+components/ui/chart.tsx(107,3): error TS2339: Property 'label' does not exist on type 'Omit<Props<ValueType, NameType>, PropertiesReadFromContext> & { active?: boolean | undefined; includeHidden?: boolean | undefined; ... 17 more ...; axisId?: AxisId | undefined; } & ClassAttributes<...> & HTMLAttributes<...> & { ...; }'.
+components/ui/chart.tsx(161,23): error TS7006: Parameter 'item' implicitly has an 'any' type.
+components/ui/chart.tsx(161,29): error TS7006: Parameter 'index' implicitly has an 'any' type.
+components/ui/chart.tsx(230,39): error TS2344: Type '"payload" | "verticalAlign"' does not satisfy the constraint '"string" | "id" | "children" | "color" | "style" | "clipPath" | "filter" | "mask" | "path" | "className" | "key" | "suppressHydrationWarning" | "lang" | "tabIndex" | "role" | "content" | ... 427 more ... | "onBBoxUpdate"'.
+  Type '"payload"' is not assignable to type '"string" | "id" | "children" | "color" | "style" | "clipPath" | "filter" | "mask" | "path" | "className" | "key" | "suppressHydrationWarning" | "lang" | "tabIndex" | "role" | "content" | ... 427 more ... | "onBBoxUpdate"'.
+components/ui/chart.tsx(236,17): error TS2339: Property 'length' does not exist on type '{}'.
+components/ui/chart.tsx(242,16): error TS2339: Property 'map' does not exist on type '{}'.

@@ -1,0 +1,321 @@
+﻿app/ai-tools/company-insider/data/company-data.ts(1451,17): error TS2322: Type '"Medium"' is not assignable to type '"Easy" | "Moderate" | "Hard" | "Expert" | "Nightmare" | undefined'.
+app/ai-tools/company-insider/data/company-data.ts(1461,17): error TS2322: Type '"Medium"' is not assignable to type '"Easy" | "Moderate" | "Hard" | "Expert" | "Nightmare" | undefined'.
+app/ai-tools/company-insider/data/company-data.ts(1584,17): error TS2322: Type '"Medium"' is not assignable to type '"Easy" | "Moderate" | "Hard" | "Expert" | "Nightmare" | undefined'.
+app/ai-tools/company-insider/data/company-data.ts(1594,17): error TS2322: Type '"Medium"' is not assignable to type '"Easy" | "Moderate" | "Hard" | "Expert" | "Nightmare" | undefined'.
+app/ai-tools/company-insider/data/company-data.ts(1717,17): error TS2322: Type '"Medium"' is not assignable to type '"Easy" | "Moderate" | "Hard" | "Expert" | "Nightmare" | undefined'.
+app/ai-tools/company-insider/data/company-data.ts(1727,17): error TS2322: Type '"Medium"' is not assignable to type '"Easy" | "Moderate" | "Hard" | "Expert" | "Nightmare" | undefined'.
+app/ai-tools/company-insider/data/company-data.ts(1850,17): error TS2322: Type '"Medium"' is not assignable to type '"Easy" | "Moderate" | "Hard" | "Expert" | "Nightmare" | undefined'.
+app/ai-tools/company-insider/data/company-data.ts(1860,17): error TS2322: Type '"Medium"' is not assignable to type '"Easy" | "Moderate" | "Hard" | "Expert" | "Nightmare" | undefined'.
+app/ai-tools/company-insider/data/company-data.ts(1983,17): error TS2322: Type '"Medium"' is not assignable to type '"Easy" | "Moderate" | "Hard" | "Expert" | "Nightmare" | undefined'.
+app/ai-tools/company-insider/data/company-data.ts(1993,17): error TS2322: Type '"Medium"' is not assignable to type '"Easy" | "Moderate" | "Hard" | "Expert" | "Nightmare" | undefined'.
+app/ai-tools/company-insider/data/company-data.ts(2116,17): error TS2322: Type '"Medium"' is not assignable to type '"Easy" | "Moderate" | "Hard" | "Expert" | "Nightmare" | undefined'.
+app/ai-tools/company-insider/data/company-data.ts(2126,17): error TS2322: Type '"Medium"' is not assignable to type '"Easy" | "Moderate" | "Hard" | "Expert" | "Nightmare" | undefined'.
+app/ai-tools/company-insider/data/company-data.ts(2249,17): error TS2322: Type '"Medium"' is not assignable to type '"Easy" | "Moderate" | "Hard" | "Expert" | "Nightmare" | undefined'.
+app/ai-tools/company-insider/data/company-data.ts(2259,17): error TS2322: Type '"Medium"' is not assignable to type '"Easy" | "Moderate" | "Hard" | "Expert" | "Nightmare" | undefined'.
+app/ai-tools/company-insider/data/company-data.ts(2382,17): error TS2322: Type '"Medium"' is not assignable to type '"Easy" | "Moderate" | "Hard" | "Expert" | "Nightmare" | undefined'.
+app/ai-tools/company-insider/data/company-data.ts(2392,17): error TS2322: Type '"Medium"' is not assignable to type '"Easy" | "Moderate" | "Hard" | "Expert" | "Nightmare" | undefined'.
+app/ai-tools/company-insider/data/company-data.ts(2515,17): error TS2322: Type '"Medium"' is not assignable to type '"Easy" | "Moderate" | "Hard" | "Expert" | "Nightmare" | undefined'.
+app/ai-tools/company-insider/data/company-data.ts(2525,17): error TS2322: Type '"Medium"' is not assignable to type '"Easy" | "Moderate" | "Hard" | "Expert" | "Nightmare" | undefined'.
+app/ai-tools/company-insider/data/company-data.ts(2648,17): error TS2322: Type '"Medium"' is not assignable to type '"Easy" | "Moderate" | "Hard" | "Expert" | "Nightmare" | undefined'.
+app/ai-tools/company-insider/data/company-data.ts(2658,17): error TS2322: Type '"Medium"' is not assignable to type '"Easy" | "Moderate" | "Hard" | "Expert" | "Nightmare" | undefined'.
+app/ai-tools/company-insider/data/company-data.ts(3321,17): error TS2322: Type '"Medium"' is not assignable to type '"Easy" | "Moderate" | "Hard" | "Expert" | "Nightmare" | undefined'.
+app/ai-tools/company-insider/data/company-data.ts(3331,17): error TS2322: Type '"Medium"' is not assignable to type '"Easy" | "Moderate" | "Hard" | "Expert" | "Nightmare" | undefined'.
+app/ai-tools/company-insider/data/company-data.ts(3454,17): error TS2322: Type '"Medium"' is not assignable to type '"Easy" | "Moderate" | "Hard" | "Expert" | "Nightmare" | undefined'.
+app/ai-tools/company-insider/data/company-data.ts(3464,17): error TS2322: Type '"Medium"' is not assignable to type '"Easy" | "Moderate" | "Hard" | "Expert" | "Nightmare" | undefined'.
+app/ai-tools/company-insider/data/company-data.ts(3587,17): error TS2322: Type '"Medium"' is not assignable to type '"Easy" | "Moderate" | "Hard" | "Expert" | "Nightmare" | undefined'.
+app/ai-tools/company-insider/data/company-data.ts(3597,17): error TS2322: Type '"Medium"' is not assignable to type '"Easy" | "Moderate" | "Hard" | "Expert" | "Nightmare" | undefined'.
+app/ai-tools/company-insider/data/company-data.ts(3720,17): error TS2322: Type '"Medium"' is not assignable to type '"Easy" | "Moderate" | "Hard" | "Expert" | "Nightmare" | undefined'.
+app/ai-tools/company-insider/data/company-data.ts(3730,17): error TS2322: Type '"Medium"' is not assignable to type '"Easy" | "Moderate" | "Hard" | "Expert" | "Nightmare" | undefined'.
+app/ai-tools/company-insider/data/company-data.ts(3853,17): error TS2322: Type '"Medium"' is not assignable to type '"Easy" | "Moderate" | "Hard" | "Expert" | "Nightmare" | undefined'.
+app/ai-tools/company-insider/data/company-data.ts(3863,17): error TS2322: Type '"Medium"' is not assignable to type '"Easy" | "Moderate" | "Hard" | "Expert" | "Nightmare" | undefined'.
+app/ai-tools/company-insider/data/company-data.ts(3986,17): error TS2322: Type '"Medium"' is not assignable to type '"Easy" | "Moderate" | "Hard" | "Expert" | "Nightmare" | undefined'.
+app/ai-tools/company-insider/data/company-data.ts(3996,17): error TS2322: Type '"Medium"' is not assignable to type '"Easy" | "Moderate" | "Hard" | "Expert" | "Nightmare" | undefined'.
+app/ai-tools/company-insider/data/company-data.ts(4119,17): error TS2322: Type '"Medium"' is not assignable to type '"Easy" | "Moderate" | "Hard" | "Expert" | "Nightmare" | undefined'.
+app/ai-tools/company-insider/data/company-data.ts(4129,17): error TS2322: Type '"Medium"' is not assignable to type '"Easy" | "Moderate" | "Hard" | "Expert" | "Nightmare" | undefined'.
+app/ai-tools/company-insider/data/company-data.ts(4252,17): error TS2322: Type '"Medium"' is not assignable to type '"Easy" | "Moderate" | "Hard" | "Expert" | "Nightmare" | undefined'.
+app/ai-tools/company-insider/data/company-data.ts(4262,17): error TS2322: Type '"Medium"' is not assignable to type '"Easy" | "Moderate" | "Hard" | "Expert" | "Nightmare" | undefined'.
+app/ai-tools/company-insider/data/company-data.ts(4385,17): error TS2322: Type '"Medium"' is not assignable to type '"Easy" | "Moderate" | "Hard" | "Expert" | "Nightmare" | undefined'.
+app/ai-tools/company-insider/data/company-data.ts(4395,17): error TS2322: Type '"Medium"' is not assignable to type '"Easy" | "Moderate" | "Hard" | "Expert" | "Nightmare" | undefined'.
+app/ai-tools/company-insider/data/company-data.ts(4518,17): error TS2322: Type '"Medium"' is not assignable to type '"Easy" | "Moderate" | "Hard" | "Expert" | "Nightmare" | undefined'.
+app/ai-tools/company-insider/data/company-data.ts(4528,17): error TS2322: Type '"Medium"' is not assignable to type '"Easy" | "Moderate" | "Hard" | "Expert" | "Nightmare" | undefined'.
+app/ai-tools/company-insider/data/company-data.ts(4651,17): error TS2322: Type '"Medium"' is not assignable to type '"Easy" | "Moderate" | "Hard" | "Expert" | "Nightmare" | undefined'.
+app/ai-tools/company-insider/data/company-data.ts(4661,17): error TS2322: Type '"Medium"' is not assignable to type '"Easy" | "Moderate" | "Hard" | "Expert" | "Nightmare" | undefined'.
+app/ai-tools/company-insider/data/company-data.ts(4784,17): error TS2322: Type '"Medium"' is not assignable to type '"Easy" | "Moderate" | "Hard" | "Expert" | "Nightmare" | undefined'.
+app/ai-tools/company-insider/data/company-data.ts(4794,17): error TS2322: Type '"Medium"' is not assignable to type '"Easy" | "Moderate" | "Hard" | "Expert" | "Nightmare" | undefined'.
+app/ai-tools/company-insider/data/company-data.ts(4917,17): error TS2322: Type '"Medium"' is not assignable to type '"Easy" | "Moderate" | "Hard" | "Expert" | "Nightmare" | undefined'.
+app/ai-tools/company-insider/data/company-data.ts(4927,17): error TS2322: Type '"Medium"' is not assignable to type '"Easy" | "Moderate" | "Hard" | "Expert" | "Nightmare" | undefined'.
+app/ai-tools/company-insider/data/company-data.ts(5050,17): error TS2322: Type '"Medium"' is not assignable to type '"Easy" | "Moderate" | "Hard" | "Expert" | "Nightmare" | undefined'.
+app/ai-tools/company-insider/data/company-data.ts(5060,17): error TS2322: Type '"Medium"' is not assignable to type '"Easy" | "Moderate" | "Hard" | "Expert" | "Nightmare" | undefined'.
+app/ai-tools/company-insider/data/company-data.ts(5183,17): error TS2322: Type '"Medium"' is not assignable to type '"Easy" | "Moderate" | "Hard" | "Expert" | "Nightmare" | undefined'.
+app/ai-tools/company-insider/data/company-data.ts(5193,17): error TS2322: Type '"Medium"' is not assignable to type '"Easy" | "Moderate" | "Hard" | "Expert" | "Nightmare" | undefined'.
+app/ai-tools/company-insider/data/company-data.ts(5316,17): error TS2322: Type '"Medium"' is not assignable to type '"Easy" | "Moderate" | "Hard" | "Expert" | "Nightmare" | undefined'.
+app/ai-tools/company-insider/data/company-data.ts(5326,17): error TS2322: Type '"Medium"' is not assignable to type '"Easy" | "Moderate" | "Hard" | "Expert" | "Nightmare" | undefined'.
+app/ai-tools/company-insider/data/company-data.ts(5449,17): error TS2322: Type '"Medium"' is not assignable to type '"Easy" | "Moderate" | "Hard" | "Expert" | "Nightmare" | undefined'.
+app/ai-tools/company-insider/data/company-data.ts(5459,17): error TS2322: Type '"Medium"' is not assignable to type '"Easy" | "Moderate" | "Hard" | "Expert" | "Nightmare" | undefined'.
+app/ai-tools/company-insider/data/company-data.ts(5582,17): error TS2322: Type '"Medium"' is not assignable to type '"Easy" | "Moderate" | "Hard" | "Expert" | "Nightmare" | undefined'.
+app/ai-tools/company-insider/data/company-data.ts(5592,17): error TS2322: Type '"Medium"' is not assignable to type '"Easy" | "Moderate" | "Hard" | "Expert" | "Nightmare" | undefined'.
+app/ai-tools/company-insider/data/company-data.ts(5715,17): error TS2322: Type '"Medium"' is not assignable to type '"Easy" | "Moderate" | "Hard" | "Expert" | "Nightmare" | undefined'.
+app/ai-tools/company-insider/data/company-data.ts(5725,17): error TS2322: Type '"Medium"' is not assignable to type '"Easy" | "Moderate" | "Hard" | "Expert" | "Nightmare" | undefined'.
+app/ai-tools/company-insider/data/company-data.ts(5848,17): error TS2322: Type '"Medium"' is not assignable to type '"Easy" | "Moderate" | "Hard" | "Expert" | "Nightmare" | undefined'.
+app/ai-tools/company-insider/data/company-data.ts(5858,17): error TS2322: Type '"Medium"' is not assignable to type '"Easy" | "Moderate" | "Hard" | "Expert" | "Nightmare" | undefined'.
+app/ai-tools/company-insider/data/company-data.ts(5981,17): error TS2322: Type '"Medium"' is not assignable to type '"Easy" | "Moderate" | "Hard" | "Expert" | "Nightmare" | undefined'.
+app/ai-tools/company-insider/data/company-data.ts(5991,17): error TS2322: Type '"Medium"' is not assignable to type '"Easy" | "Moderate" | "Hard" | "Expert" | "Nightmare" | undefined'.
+app/ai-tools/company-insider/data/company-data.ts(6114,17): error TS2322: Type '"Medium"' is not assignable to type '"Easy" | "Moderate" | "Hard" | "Expert" | "Nightmare" | undefined'.
+app/ai-tools/company-insider/data/company-data.ts(6124,17): error TS2322: Type '"Medium"' is not assignable to type '"Easy" | "Moderate" | "Hard" | "Expert" | "Nightmare" | undefined'.
+app/ai-tools/company-insider/data/company-data.ts(6247,17): error TS2322: Type '"Medium"' is not assignable to type '"Easy" | "Moderate" | "Hard" | "Expert" | "Nightmare" | undefined'.
+app/ai-tools/company-insider/data/company-data.ts(6257,17): error TS2322: Type '"Medium"' is not assignable to type '"Easy" | "Moderate" | "Hard" | "Expert" | "Nightmare" | undefined'.
+app/ai-tools/company-insider/data/company-data.ts(6380,17): error TS2322: Type '"Medium"' is not assignable to type '"Easy" | "Moderate" | "Hard" | "Expert" | "Nightmare" | undefined'.
+app/ai-tools/company-insider/data/company-data.ts(6390,17): error TS2322: Type '"Medium"' is not assignable to type '"Easy" | "Moderate" | "Hard" | "Expert" | "Nightmare" | undefined'.
+app/ai-tools/company-insider/data/company-data.ts(6513,17): error TS2322: Type '"Medium"' is not assignable to type '"Easy" | "Moderate" | "Hard" | "Expert" | "Nightmare" | undefined'.
+app/ai-tools/company-insider/data/company-data.ts(6523,17): error TS2322: Type '"Medium"' is not assignable to type '"Easy" | "Moderate" | "Hard" | "Expert" | "Nightmare" | undefined'.
+app/ai-tools/company-insider/data/company-data.ts(6646,17): error TS2322: Type '"Medium"' is not assignable to type '"Easy" | "Moderate" | "Hard" | "Expert" | "Nightmare" | undefined'.
+app/ai-tools/company-insider/data/company-data.ts(6656,17): error TS2322: Type '"Medium"' is not assignable to type '"Easy" | "Moderate" | "Hard" | "Expert" | "Nightmare" | undefined'.
+app/ai-tools/company-insider/data/company-data.ts(12720,17): error TS2322: Type '"Medium"' is not assignable to type '"Easy" | "Moderate" | "Hard" | "Expert" | "Nightmare" | undefined'.
+app/ai-tools/company-insider/data/company-data.ts(12730,17): error TS2322: Type '"Medium"' is not assignable to type '"Easy" | "Moderate" | "Hard" | "Expert" | "Nightmare" | undefined'.
+app/ai-tools/company-insider/data/company-data.ts(12816,17): error TS2322: Type '"Medium"' is not assignable to type '"Easy" | "Moderate" | "Hard" | "Expert" | "Nightmare" | undefined'.
+app/ai-tools/company-insider/data/company-data.ts(12914,17): error TS2322: Type '"Medium"' is not assignable to type '"Easy" | "Moderate" | "Hard" | "Expert" | "Nightmare" | undefined'.
+app/ai-tools/company-insider/data/company-data.ts(13104,17): error TS2322: Type '"Medium"' is not assignable to type '"Easy" | "Moderate" | "Hard" | "Expert" | "Nightmare" | undefined'.
+app/ai-tools/company-insider/data/company-data.ts(13114,17): error TS2322: Type '"Medium"' is not assignable to type '"Easy" | "Moderate" | "Hard" | "Expert" | "Nightmare" | undefined'.
+app/ai-tools/company-insider/data/company-data.ts(13592,17): error TS2322: Type '"Medium"' is not assignable to type '"Easy" | "Moderate" | "Hard" | "Expert" | "Nightmare" | undefined'.
+app/ai-tools/company-insider/data/company-data.ts(13602,17): error TS2322: Type '"Medium"' is not assignable to type '"Easy" | "Moderate" | "Hard" | "Expert" | "Nightmare" | undefined'.
+app/ai-tools/company-insider/data/company-data.ts(13972,17): error TS2322: Type '"Medium"' is not assignable to type '"Easy" | "Moderate" | "Hard" | "Expert" | "Nightmare" | undefined'.
+app/ai-tools/company-insider/data/company-data.ts(13982,17): error TS2322: Type '"Medium"' is not assignable to type '"Easy" | "Moderate" | "Hard" | "Expert" | "Nightmare" | undefined'.
+app/ai-tools/company-insider/data/company-data.ts(14162,17): error TS2322: Type '"Medium"' is not assignable to type '"Easy" | "Moderate" | "Hard" | "Expert" | "Nightmare" | undefined'.
+app/ai-tools/company-insider/data/company-data.ts(14172,17): error TS2322: Type '"Medium"' is not assignable to type '"Easy" | "Moderate" | "Hard" | "Expert" | "Nightmare" | undefined'.
+app/ai-tools/company-insider/data/company-data.ts(14264,17): error TS2322: Type '"Medium"' is not assignable to type '"Easy" | "Moderate" | "Hard" | "Expert" | "Nightmare" | undefined'.
+app/ai-tools/dsa-visualizer/algorithms/dynamic-programming.ts(162,9): error TS2322: Type '() => Generator<{ type: "grid"; grid: (string | number)[][]; rows: number; cols: number; highlights: { row: number; col: number; color: "active"; }[]; description: string; } | { type: "grid"; grid: (string | number)[][]; rows: number; cols: number; highlights: { ...; }[]; description: string; } | { ...; } | { ...; }...' is not assignable to type '(data?: any) => Generator<VisualizationState, any, any>'.
+  Call signature return types 'Generator<{ type: "grid"; grid: (string | number)[][]; rows: number; cols: number; highlights: { row: number; col: number; color: "active"; }[]; description: string; } | { type: "grid"; grid: (string | number)[][]; rows: number; cols: number; highlights: { ...; }[]; description: string; } | { ...; } | { ...; }, void...' and 'Generator<VisualizationState, any, any>' are incompatible.
+    The types returned by 'next(...)' are incompatible between these types.
+      Type 'IteratorResult<{ type: "grid"; grid: (string | number)[][]; rows: number; cols: number; highlights: { row: number; col: number; color: "active"; }[]; description: string; } | { type: "grid"; grid: (string | number)[][]; rows: number; cols: number; highlights: { ...; }[]; description: string; } | { ...; } | { ...; },...' is not assignable to type 'IteratorResult<VisualizationState, any>'.
+        Type 'IteratorYieldResult<{ type: "grid"; grid: (string | number)[][]; rows: number; cols: number; highlights: { row: number; col: number; color: "active"; }[]; description: string; } | { type: "grid"; grid: (string | number)[][]; rows: number; cols: number; highlights: { ...; }[]; description: string; } | { ...; } | { .....' is not assignable to type 'IteratorResult<VisualizationState, any>'.
+          Type 'IteratorYieldResult<{ type: "grid"; grid: (string | number)[][]; rows: number; cols: number; highlights: { row: number; col: number; color: "active"; }[]; description: string; } | { type: "grid"; grid: (string | number)[][]; rows: number; cols: number; highlights: { ...; }[]; description: string; } | { ...; } | { .....' is not assignable to type 'IteratorYieldResult<VisualizationState>'.
+            Type '{ type: "grid"; grid: (string | number)[][]; rows: number; cols: number; highlights: { row: number; col: number; color: "active"; }[]; description: string; } | { type: "grid"; grid: (string | number)[][]; rows: number; cols: number; highlights: { ...; }[]; description: string; } | { ...; } | { ...; }' is not assignable to type 'VisualizationState'.
+              Type '{ type: "grid"; grid: (string | number)[][]; rows: number; cols: number; highlights: { row: number; col: number; color: "found"; }[]; description: string; }' is not assignable to type 'VisualizationState'.
+                Type '{ type: "grid"; grid: (string | number)[][]; rows: number; cols: number; highlights: { row: number; col: number; color: "found"; }[]; description: string; }' is not assignable to type 'GridVisualizationState'.
+                  Types of property 'highlights' are incompatible.
+                    Type '{ row: number; col: number; color: "found"; }[]' is not assignable to type '{ row: number; col: number; color: "match" | "none" | "active" | "mismatch"; }[]'.
+                      Type '{ row: number; col: number; color: "found"; }' is not assignable to type '{ row: number; col: number; color: "match" | "none" | "active" | "mismatch"; }'.
+                        Types of property 'color' are incompatible.
+                          Type '"found"' is not assignable to type '"match" | "none" | "active" | "mismatch"'.
+app/ai-tools/dsa-visualizer/components/visualization-board.tsx(405,61): error TS2367: This comparison appears to be unintentional because the types '"none" | undefined' and '"found"' have no overlap.
+app/ai-tools/dsa-visualizer/components/visualization-board.tsx(410,61): error TS2367: This comparison appears to be unintentional because the types '"none" | undefined' and '"found"' have no overlap.
+app/ai-tools/job-market/app/page.tsx(185,49): error TS2561: Object literal may only specify known properties, but 'userId' does not exist in type 'Omit<Application, "id" | "appliedAt" | "updatedAt">'. Did you mean to write 'user_id'?
+app/ai-tools/mock-interview/app/components/result-dashboard.tsx(29,33): error TS2571: Object is of type 'unknown'.
+app/ai-tools/quiz-generator/app/page.tsx(315,38): error TS2304: Cannot find name 'Link'.
+app/ai-tools/quiz-generator/app/page.tsx(319,39): error TS2304: Cannot find name 'Link'.
+app/ai-tools/resume-builder/page.tsx(580,25): error TS2739: Type 'DashboardData' is missing the following properties from type 'ResumeAnalysisData': categoryScores, bulletPointFeedback
+app/ai-tools/summarizer/app/page.tsx(169,17): error TS2322: Type '(e: React.ChangeEvent<HTMLInputElement> | React.DragEvent<HTMLDivElement | HTMLTextAreaElement>) => void' is not assignable to type 'DragEventHandler<HTMLElement>'.
+  Types of parameters 'e' and 'event' are incompatible.
+    Type 'DragEvent<HTMLElement>' is not assignable to type 'ChangeEvent<HTMLInputElement> | DragEvent<HTMLDivElement | HTMLTextAreaElement>'.
+      Type 'DragEvent<HTMLElement>' is not assignable to type 'DragEvent<HTMLDivElement | HTMLTextAreaElement>'.
+        Type 'HTMLElement' is not assignable to type 'HTMLDivElement | HTMLTextAreaElement'.
+          Type 'HTMLElement' is missing the following properties from type 'HTMLTextAreaElement': autocomplete, cols, defaultValue, dirName, and 26 more.
+app/ai-tools/website-builder/components/preview-panel.tsx(67,56): error TS7006: Parameter 's' implicitly has an 'any' type.
+app/ai-tools/website-builder/components/preview-panel.tsx(79,44): error TS7006: Parameter 's' implicitly has an 'any' type.
+app/ai-tools/website-builder/components/properties-panel.tsx(16,10): error TS2305: Module '"../builder-config"' has no exported member 'generateImage'.
+app/ai-tools/website-builder/components/properties-panel.tsx(146,46): error TS2304: Cannot find name 'Button'.
+app/ai-tools/website-builder/components/properties-panel.tsx(150,63): error TS2304: Cannot find name 'Button'.
+app/ai-tools/website-builder/components/properties-panel.tsx(224,60): error TS2304: Cannot find name 'cn'.
+app/ai-tools/website-builder/components/properties-panel.tsx(229,65): error TS2304: Cannot find name 'cn'.
+app/ai-tools/website-builder/components/render-component.tsx(21,9): error TS2367: This comparison appears to be unintentional because the types 'ComponentType' and '"custom"' have no overlap.
+app/api/summarizer/generate/route.ts(46,34): error TS2345: Argument of type '(item: { str?: string; }) => string | undefined' is not assignable to parameter of type '(value: TextItem | TextMarkedContent, index: number, array: (TextItem | TextMarkedContent)[]) => string | undefined'.
+  Types of parameters 'item' and 'value' are incompatible.
+    Type 'TextItem | TextMarkedContent' is not assignable to type '{ str?: string | undefined; }'.
+      Type 'TextMarkedContent' has no properties in common with type '{ str?: string | undefined; }'.
+app/auth/update-password/page.tsx(29,49): error TS18047: 'supabase' is possibly 'null'.
+app/courses/[courseId]/[lessonId]/page.tsx(136,34): error TS2339: Property 'uid' does not exist on type 'User'.
+app/courses/[courseId]/[lessonId]/page.tsx(139,39): error TS2339: Property 'displayName' does not exist on type 'User'.
+app/courses/[courseId]/[lessonId]/page.tsx(282,25): error TS2322: Type '(() => Promise<void>) | undefined' is not assignable to type '() => void'.
+  Type 'undefined' is not assignable to type '() => void'.
+components/bento-grid-section.tsx(148,33): error TS2322: Type '{ hidden: { scale: number; opacity: number; y: number; }; visible: (i: number) => { scale: number; opacity: number; y: number; transition: { delay: number; duration: number; ease: string; }; }; }' is not assignable to type 'Variants'.
+  Property 'visible' is incompatible with index signature.
+    Type '(i: number) => { scale: number; opacity: number; y: number; transition: { delay: number; duration: number; ease: string; }; }' is not assignable to type 'Variant'.
+      Type '(i: number) => { scale: number; opacity: number; y: number; transition: { delay: number; duration: number; ease: string; }; }' is not assignable to type 'TargetResolver'.
+        Type '{ scale: number; opacity: number; y: number; transition: { delay: number; duration: number; ease: string; }; }' is not assignable to type 'string | TargetAndTransition'.
+          Type '{ scale: number; opacity: number; y: number; transition: { delay: number; duration: number; ease: string; }; }' is not assignable to type 'TargetAndTransition'.
+            Type '{ scale: number; opacity: number; y: number; transition: { delay: number; duration: number; ease: string; }; }' is not assignable to type '{ transition?: Transition<any> | undefined; transitionEnd?: ResolvedValues | undefined; }'.
+              Types of property 'transition' are incompatible.
+                Type '{ delay: number; duration: number; ease: string; }' is not assignable to type 'Transition<any> | undefined'.
+                  Type '{ delay: number; duration: number; ease: string; }' is not assignable to type 'TransitionWithValueOverrides<any>'.
+                    Type '{ delay: number; duration: number; ease: string; }' is not assignable to type 'ValueAnimationTransition<any>'.
+                      Types of property 'ease' are incompatible.
+                        Type 'string' is not assignable to type 'Easing | Easing[] | undefined'.
+components/bento-grid-section.tsx(149,33): error TS2322: Type '{ hidden: { scale: number; opacity: number; y: number; }; visible: (i: number) => { scale: number; opacity: number; y: number; transition: { delay: number; duration: number; ease: string; }; }; }' is not assignable to type 'Variants'.
+  Property 'visible' is incompatible with index signature.
+    Type '(i: number) => { scale: number; opacity: number; y: number; transition: { delay: number; duration: number; ease: string; }; }' is not assignable to type 'Variant'.
+      Type '(i: number) => { scale: number; opacity: number; y: number; transition: { delay: number; duration: number; ease: string; }; }' is not assignable to type 'TargetResolver'.
+        Type '{ scale: number; opacity: number; y: number; transition: { delay: number; duration: number; ease: string; }; }' is not assignable to type 'string | TargetAndTransition'.
+          Type '{ scale: number; opacity: number; y: number; transition: { delay: number; duration: number; ease: string; }; }' is not assignable to type 'TargetAndTransition'.
+            Type '{ scale: number; opacity: number; y: number; transition: { delay: number; duration: number; ease: string; }; }' is not assignable to type '{ transition?: Transition<any> | undefined; transitionEnd?: ResolvedValues | undefined; }'.
+              Types of property 'transition' are incompatible.
+                Type '{ delay: number; duration: number; ease: string; }' is not assignable to type 'Transition<any> | undefined'.
+                  Type '{ delay: number; duration: number; ease: string; }' is not assignable to type 'TransitionWithValueOverrides<any>'.
+                    Type '{ delay: number; duration: number; ease: string; }' is not assignable to type 'ValueAnimationTransition<any>'.
+                      Types of property 'ease' are incompatible.
+                        Type 'string' is not assignable to type 'Easing | Easing[] | undefined'.
+components/bento-grid-section.tsx(150,33): error TS2322: Type '{ hidden: { scale: number; opacity: number; y: number; }; visible: (i: number) => { scale: number; opacity: number; y: number; transition: { delay: number; duration: number; ease: string; }; }; }' is not assignable to type 'Variants'.
+  Property 'visible' is incompatible with index signature.
+    Type '(i: number) => { scale: number; opacity: number; y: number; transition: { delay: number; duration: number; ease: string; }; }' is not assignable to type 'Variant'.
+      Type '(i: number) => { scale: number; opacity: number; y: number; transition: { delay: number; duration: number; ease: string; }; }' is not assignable to type 'TargetResolver'.
+        Type '{ scale: number; opacity: number; y: number; transition: { delay: number; duration: number; ease: string; }; }' is not assignable to type 'string | TargetAndTransition'.
+          Type '{ scale: number; opacity: number; y: number; transition: { delay: number; duration: number; ease: string; }; }' is not assignable to type 'TargetAndTransition'.
+            Type '{ scale: number; opacity: number; y: number; transition: { delay: number; duration: number; ease: string; }; }' is not assignable to type '{ transition?: Transition<any> | undefined; transitionEnd?: ResolvedValues | undefined; }'.
+              Types of property 'transition' are incompatible.
+                Type '{ delay: number; duration: number; ease: string; }' is not assignable to type 'Transition<any> | undefined'.
+                  Type '{ delay: number; duration: number; ease: string; }' is not assignable to type 'TransitionWithValueOverrides<any>'.
+                    Type '{ delay: number; duration: number; ease: string; }' is not assignable to type 'ValueAnimationTransition<any>'.
+                      Types of property 'ease' are incompatible.
+                        Type 'string' is not assignable to type 'Easing | Easing[] | undefined'.
+components/bento-grid-section.tsx(280,44): error TS2322: Type '{ hidden: { opacity: number; y: number; }; visible: (i: number) => { opacity: number; y: number; transition: { delay: number; duration: number; ease: string; }; }; }' is not assignable to type 'Variants'.
+  Property 'visible' is incompatible with index signature.
+    Type '(i: number) => { opacity: number; y: number; transition: { delay: number; duration: number; ease: string; }; }' is not assignable to type 'Variant'.
+      Type '(i: number) => { opacity: number; y: number; transition: { delay: number; duration: number; ease: string; }; }' is not assignable to type 'TargetResolver'.
+        Type '{ opacity: number; y: number; transition: { delay: number; duration: number; ease: string; }; }' is not assignable to type 'string | TargetAndTransition'.
+          Type '{ opacity: number; y: number; transition: { delay: number; duration: number; ease: string; }; }' is not assignable to type 'TargetAndTransition'.
+            Type '{ opacity: number; y: number; transition: { delay: number; duration: number; ease: string; }; }' is not assignable to type '{ transition?: Transition<any> | undefined; transitionEnd?: ResolvedValues | undefined; }'.
+              Types of property 'transition' are incompatible.
+                Type '{ delay: number; duration: number; ease: string; }' is not assignable to type 'Transition<any> | undefined'.
+                  Type '{ delay: number; duration: number; ease: string; }' is not assignable to type 'TransitionWithValueOverrides<any>'.
+                    Type '{ delay: number; duration: number; ease: string; }' is not assignable to type 'ValueAnimationTransition<any>'.
+                      Types of property 'ease' are incompatible.
+                        Type 'string' is not assignable to type 'Easing | Easing[] | undefined'.
+components/bento-grid-section.tsx(298,44): error TS2322: Type '{ hidden: { opacity: number; y: number; }; visible: (i: number) => { opacity: number; y: number; transition: { delay: number; duration: number; ease: string; }; }; }' is not assignable to type 'Variants'.
+  Property 'visible' is incompatible with index signature.
+    Type '(i: number) => { opacity: number; y: number; transition: { delay: number; duration: number; ease: string; }; }' is not assignable to type 'Variant'.
+      Type '(i: number) => { opacity: number; y: number; transition: { delay: number; duration: number; ease: string; }; }' is not assignable to type 'TargetResolver'.
+        Type '{ opacity: number; y: number; transition: { delay: number; duration: number; ease: string; }; }' is not assignable to type 'string | TargetAndTransition'.
+          Type '{ opacity: number; y: number; transition: { delay: number; duration: number; ease: string; }; }' is not assignable to type 'TargetAndTransition'.
+            Type '{ opacity: number; y: number; transition: { delay: number; duration: number; ease: string; }; }' is not assignable to type '{ transition?: Transition<any> | undefined; transitionEnd?: ResolvedValues | undefined; }'.
+              Types of property 'transition' are incompatible.
+                Type '{ delay: number; duration: number; ease: string; }' is not assignable to type 'Transition<any> | undefined'.
+                  Type '{ delay: number; duration: number; ease: string; }' is not assignable to type 'TransitionWithValueOverrides<any>'.
+                    Type '{ delay: number; duration: number; ease: string; }' is not assignable to type 'ValueAnimationTransition<any>'.
+                      Types of property 'ease' are incompatible.
+                        Type 'string' is not assignable to type 'Easing | Easing[] | undefined'.
+components/bento-grid-section.tsx(319,44): error TS2322: Type '{ hidden: { opacity: number; y: number; }; visible: (i: number) => { opacity: number; y: number; transition: { delay: number; duration: number; ease: string; }; }; }' is not assignable to type 'Variants'.
+  Property 'visible' is incompatible with index signature.
+    Type '(i: number) => { opacity: number; y: number; transition: { delay: number; duration: number; ease: string; }; }' is not assignable to type 'Variant'.
+      Type '(i: number) => { opacity: number; y: number; transition: { delay: number; duration: number; ease: string; }; }' is not assignable to type 'TargetResolver'.
+        Type '{ opacity: number; y: number; transition: { delay: number; duration: number; ease: string; }; }' is not assignable to type 'string | TargetAndTransition'.
+          Type '{ opacity: number; y: number; transition: { delay: number; duration: number; ease: string; }; }' is not assignable to type 'TargetAndTransition'.
+            Type '{ opacity: number; y: number; transition: { delay: number; duration: number; ease: string; }; }' is not assignable to type '{ transition?: Transition<any> | undefined; transitionEnd?: ResolvedValues | undefined; }'.
+              Types of property 'transition' are incompatible.
+                Type '{ delay: number; duration: number; ease: string; }' is not assignable to type 'Transition<any> | undefined'.
+                  Type '{ delay: number; duration: number; ease: string; }' is not assignable to type 'TransitionWithValueOverrides<any>'.
+                    Type '{ delay: number; duration: number; ease: string; }' is not assignable to type 'ValueAnimationTransition<any>'.
+                      Types of property 'ease' are incompatible.
+                        Type 'string' is not assignable to type 'Easing | Easing[] | undefined'.
+components/bento-grid-section.tsx(340,44): error TS2322: Type '{ hidden: { opacity: number; y: number; }; visible: (i: number) => { opacity: number; y: number; transition: { delay: number; duration: number; ease: string; }; }; }' is not assignable to type 'Variants'.
+  Property 'visible' is incompatible with index signature.
+    Type '(i: number) => { opacity: number; y: number; transition: { delay: number; duration: number; ease: string; }; }' is not assignable to type 'Variant'.
+      Type '(i: number) => { opacity: number; y: number; transition: { delay: number; duration: number; ease: string; }; }' is not assignable to type 'TargetResolver'.
+        Type '{ opacity: number; y: number; transition: { delay: number; duration: number; ease: string; }; }' is not assignable to type 'string | TargetAndTransition'.
+          Type '{ opacity: number; y: number; transition: { delay: number; duration: number; ease: string; }; }' is not assignable to type 'TargetAndTransition'.
+            Type '{ opacity: number; y: number; transition: { delay: number; duration: number; ease: string; }; }' is not assignable to type '{ transition?: Transition<any> | undefined; transitionEnd?: ResolvedValues | undefined; }'.
+              Types of property 'transition' are incompatible.
+                Type '{ delay: number; duration: number; ease: string; }' is not assignable to type 'Transition<any> | undefined'.
+                  Type '{ delay: number; duration: number; ease: string; }' is not assignable to type 'TransitionWithValueOverrides<any>'.
+                    Type '{ delay: number; duration: number; ease: string; }' is not assignable to type 'ValueAnimationTransition<any>'.
+                      Types of property 'ease' are incompatible.
+                        Type 'string' is not assignable to type 'Easing | Easing[] | undefined'.
+components/bento-grid-section.tsx(350,44): error TS2322: Type '{ hidden: { opacity: number; y: number; }; visible: (i: number) => { opacity: number; y: number; transition: { delay: number; duration: number; ease: string; }; }; }' is not assignable to type 'Variants'.
+  Property 'visible' is incompatible with index signature.
+    Type '(i: number) => { opacity: number; y: number; transition: { delay: number; duration: number; ease: string; }; }' is not assignable to type 'Variant'.
+      Type '(i: number) => { opacity: number; y: number; transition: { delay: number; duration: number; ease: string; }; }' is not assignable to type 'TargetResolver'.
+        Type '{ opacity: number; y: number; transition: { delay: number; duration: number; ease: string; }; }' is not assignable to type 'string | TargetAndTransition'.
+          Type '{ opacity: number; y: number; transition: { delay: number; duration: number; ease: string; }; }' is not assignable to type 'TargetAndTransition'.
+            Type '{ opacity: number; y: number; transition: { delay: number; duration: number; ease: string; }; }' is not assignable to type '{ transition?: Transition<any> | undefined; transitionEnd?: ResolvedValues | undefined; }'.
+              Types of property 'transition' are incompatible.
+                Type '{ delay: number; duration: number; ease: string; }' is not assignable to type 'Transition<any> | undefined'.
+                  Type '{ delay: number; duration: number; ease: string; }' is not assignable to type 'TransitionWithValueOverrides<any>'.
+                    Type '{ delay: number; duration: number; ease: string; }' is not assignable to type 'ValueAnimationTransition<any>'.
+                      Types of property 'ease' are incompatible.
+                        Type 'string' is not assignable to type 'Easing | Easing[] | undefined'.
+components/bento-grid-section.tsx(366,44): error TS2322: Type '{ hidden: { opacity: number; y: number; }; visible: (i: number) => { opacity: number; y: number; transition: { delay: number; duration: number; ease: string; }; }; }' is not assignable to type 'Variants'.
+  Property 'visible' is incompatible with index signature.
+    Type '(i: number) => { opacity: number; y: number; transition: { delay: number; duration: number; ease: string; }; }' is not assignable to type 'Variant'.
+      Type '(i: number) => { opacity: number; y: number; transition: { delay: number; duration: number; ease: string; }; }' is not assignable to type 'TargetResolver'.
+        Type '{ opacity: number; y: number; transition: { delay: number; duration: number; ease: string; }; }' is not assignable to type 'string | TargetAndTransition'.
+          Type '{ opacity: number; y: number; transition: { delay: number; duration: number; ease: string; }; }' is not assignable to type 'TargetAndTransition'.
+            Type '{ opacity: number; y: number; transition: { delay: number; duration: number; ease: string; }; }' is not assignable to type '{ transition?: Transition<any> | undefined; transitionEnd?: ResolvedValues | undefined; }'.
+              Types of property 'transition' are incompatible.
+                Type '{ delay: number; duration: number; ease: string; }' is not assignable to type 'Transition<any> | undefined'.
+                  Type '{ delay: number; duration: number; ease: string; }' is not assignable to type 'TransitionWithValueOverrides<any>'.
+                    Type '{ delay: number; duration: number; ease: string; }' is not assignable to type 'ValueAnimationTransition<any>'.
+                      Types of property 'ease' are incompatible.
+                        Type 'string' is not assignable to type 'Easing | Easing[] | undefined'.
+components/bento-grid-section.tsx(381,44): error TS2322: Type '{ hidden: { opacity: number; y: number; }; visible: (i: number) => { opacity: number; y: number; transition: { delay: number; duration: number; ease: string; }; }; }' is not assignable to type 'Variants'.
+  Property 'visible' is incompatible with index signature.
+    Type '(i: number) => { opacity: number; y: number; transition: { delay: number; duration: number; ease: string; }; }' is not assignable to type 'Variant'.
+      Type '(i: number) => { opacity: number; y: number; transition: { delay: number; duration: number; ease: string; }; }' is not assignable to type 'TargetResolver'.
+        Type '{ opacity: number; y: number; transition: { delay: number; duration: number; ease: string; }; }' is not assignable to type 'string | TargetAndTransition'.
+          Type '{ opacity: number; y: number; transition: { delay: number; duration: number; ease: string; }; }' is not assignable to type 'TargetAndTransition'.
+            Type '{ opacity: number; y: number; transition: { delay: number; duration: number; ease: string; }; }' is not assignable to type '{ transition?: Transition<any> | undefined; transitionEnd?: ResolvedValues | undefined; }'.
+              Types of property 'transition' are incompatible.
+                Type '{ delay: number; duration: number; ease: string; }' is not assignable to type 'Transition<any> | undefined'.
+                  Type '{ delay: number; duration: number; ease: string; }' is not assignable to type 'TransitionWithValueOverrides<any>'.
+                    Type '{ delay: number; duration: number; ease: string; }' is not assignable to type 'ValueAnimationTransition<any>'.
+                      Types of property 'ease' are incompatible.
+                        Type 'string' is not assignable to type 'Easing | Easing[] | undefined'.
+components/bento-grid-section.tsx(390,44): error TS2322: Type '{ hidden: { opacity: number; y: number; }; visible: (i: number) => { opacity: number; y: number; transition: { delay: number; duration: number; ease: string; }; }; }' is not assignable to type 'Variants'.
+  Property 'visible' is incompatible with index signature.
+    Type '(i: number) => { opacity: number; y: number; transition: { delay: number; duration: number; ease: string; }; }' is not assignable to type 'Variant'.
+      Type '(i: number) => { opacity: number; y: number; transition: { delay: number; duration: number; ease: string; }; }' is not assignable to type 'TargetResolver'.
+        Type '{ opacity: number; y: number; transition: { delay: number; duration: number; ease: string; }; }' is not assignable to type 'string | TargetAndTransition'.
+          Type '{ opacity: number; y: number; transition: { delay: number; duration: number; ease: string; }; }' is not assignable to type 'TargetAndTransition'.
+            Type '{ opacity: number; y: number; transition: { delay: number; duration: number; ease: string; }; }' is not assignable to type '{ transition?: Transition<any> | undefined; transitionEnd?: ResolvedValues | undefined; }'.
+              Types of property 'transition' are incompatible.
+                Type '{ delay: number; duration: number; ease: string; }' is not assignable to type 'Transition<any> | undefined'.
+                  Type '{ delay: number; duration: number; ease: string; }' is not assignable to type 'TransitionWithValueOverrides<any>'.
+                    Type '{ delay: number; duration: number; ease: string; }' is not assignable to type 'ValueAnimationTransition<any>'.
+                      Types of property 'ease' are incompatible.
+                        Type 'string' is not assignable to type 'Easing | Easing[] | undefined'.
+components/bento-grid-section.tsx(405,44): error TS2322: Type '{ hidden: { opacity: number; y: number; }; visible: (i: number) => { opacity: number; y: number; transition: { delay: number; duration: number; ease: string; }; }; }' is not assignable to type 'Variants'.
+  Property 'visible' is incompatible with index signature.
+    Type '(i: number) => { opacity: number; y: number; transition: { delay: number; duration: number; ease: string; }; }' is not assignable to type 'Variant'.
+      Type '(i: number) => { opacity: number; y: number; transition: { delay: number; duration: number; ease: string; }; }' is not assignable to type 'TargetResolver'.
+        Type '{ opacity: number; y: number; transition: { delay: number; duration: number; ease: string; }; }' is not assignable to type 'string | TargetAndTransition'.
+          Type '{ opacity: number; y: number; transition: { delay: number; duration: number; ease: string; }; }' is not assignable to type 'TargetAndTransition'.
+            Type '{ opacity: number; y: number; transition: { delay: number; duration: number; ease: string; }; }' is not assignable to type '{ transition?: Transition<any> | undefined; transitionEnd?: ResolvedValues | undefined; }'.
+              Types of property 'transition' are incompatible.
+                Type '{ delay: number; duration: number; ease: string; }' is not assignable to type 'Transition<any> | undefined'.
+                  Type '{ delay: number; duration: number; ease: string; }' is not assignable to type 'TransitionWithValueOverrides<any>'.
+                    Type '{ delay: number; duration: number; ease: string; }' is not assignable to type 'ValueAnimationTransition<any>'.
+                      Types of property 'ease' are incompatible.
+                        Type 'string' is not assignable to type 'Easing | Easing[] | undefined'.
+components/chatbot-bubble.tsx(291,3): error TS1117: An object literal cannot have multiple properties with the same name.
+components/resume-analyzer-draft.tsx(173,58): error TS2345: Argument of type '{ score: number; verdict: string; executiveSummary: string; marketValue: { min: number; max: number; currency: string; }; recruiterPersona: { startup: string; corporate: string; }; technicalGaps: never[]; ... 4 more ...; keywordDensity: never[]; }' is not assignable to parameter of type 'string'.
+lib/application-service.ts(72,22): error TS2551: Property 'userId' does not exist on type 'Omit<Application, "id" | "appliedAt" | "updatedAt">'. Did you mean 'user_id'?
+lib/application-service.ts(79,39): error TS2551: Property 'userId' does not exist on type 'Omit<Application, "id" | "appliedAt" | "updatedAt">'. Did you mean 'user_id'?
+lib/application-service.ts(81,26): error TS2551: Property 'userId' does not exist on type 'Omit<Application, "id" | "appliedAt" | "updatedAt">'. Did you mean 'user_id'?
+lib/course-data.ts(13794,5): error TS2322: Type '{ title: string; instructor: string; description: string; icon: ForwardRefExoticComponent<Omit<LucideProps, "ref"> & RefAttributes<SVGSVGElement>>; color: string; modules: { ...; }[]; }' is not assignable to type '{ title: string; instructor: string; description: string; icon: any; color: string; progress?: number | undefined; modules: { id?: string | undefined; title: string; completed?: number | undefined; total?: number | undefined; lessons: { ...; }[]; }[]; }'.
+  Types of property 'modules' are incompatible.
+    Type '{ title: string; lessons: { id: string; title: string; duration: string; type: string; content: string; }[]; }[]' is not assignable to type '{ id?: string | undefined; title: string; completed?: number | undefined; total?: number | undefined; lessons: { id: string; title: string; duration?: string | undefined; type: "article" | "code" | "video" | "project"; content: string; questions?: { ...; }[] | undefined; }[]; }[]'.
+      Type '{ title: string; lessons: { id: string; title: string; duration: string; type: string; content: string; }[]; }' is not assignable to type '{ id?: string | undefined; title: string; completed?: number | undefined; total?: number | undefined; lessons: { id: string; title: string; duration?: string | undefined; type: "article" | "code" | "video" | "project"; content: string; questions?: { ...; }[] | undefined; }[]; }'.
+        Types of property 'lessons' are incompatible.
+          Type '{ id: string; title: string; duration: string; type: string; content: string; }[]' is not assignable to type '{ id: string; title: string; duration?: string | undefined; type: "article" | "code" | "video" | "project"; content: string; questions?: { id: string | number; user: string; avatar: string; ... 4 more ...; answer?: { ...; } | undefined; }[] | undefined; }[]'.
+            Type '{ id: string; title: string; duration: string; type: string; content: string; }' is not assignable to type '{ id: string; title: string; duration?: string | undefined; type: "article" | "code" | "video" | "project"; content: string; questions?: { id: string | number; user: string; avatar: string; ... 4 more ...; answer?: { ...; } | undefined; }[] | undefined; }'.
+              Types of property 'type' are incompatible.
+                Type 'string' is not assignable to type '"article" | "code" | "video" | "project"'.
+lib/course-data.ts(13802,9): error TS2322: Type 'Module[]' is not assignable to type '{ id?: string | undefined; title: string; completed?: number | undefined; total?: number | undefined; lessons: { id: string; title: string; duration?: string | undefined; type: "article" | "code" | "video" | "project"; content: string; questions?: { ...; }[] | undefined; }[]; }[]'.
+  Type 'Module' is not assignable to type '{ id?: string | undefined; title: string; completed?: number | undefined; total?: number | undefined; lessons: { id: string; title: string; duration?: string | undefined; type: "article" | "code" | "video" | "project"; content: string; questions?: { ...; }[] | undefined; }[]; }'.
+    Types of property 'lessons' are incompatible.
+      Type 'Lesson[]' is not assignable to type '{ id: string; title: string; duration?: string | undefined; type: "article" | "code" | "video" | "project"; content: string; questions?: { id: string | number; user: string; avatar: string; ... 4 more ...; answer?: { ...; } | undefined; }[] | undefined; }[]'.
+        Type 'Lesson' is not assignable to type '{ id: string; title: string; duration?: string | undefined; type: "article" | "code" | "video" | "project"; content: string; questions?: { id: string | number; user: string; avatar: string; ... 4 more ...; answer?: { ...; } | undefined; }[] | undefined; }'.
+          Types of property 'type' are incompatible.
+            Type '"video" | "quiz" | "interactive"' is not assignable to type '"article" | "code" | "video" | "project"'.
+              Type '"quiz"' is not assignable to type '"article" | "code" | "video" | "project"'.
+lib/course-data.ts(13805,5): error TS2322: Type '{ title: string; instructor: string; description: string; icon: ForwardRefExoticComponent<Omit<LucideProps, "ref"> & RefAttributes<SVGSVGElement>>; color: string; modules: { ...; }[]; }' is not assignable to type '{ title: string; instructor: string; description: string; icon: any; color: string; progress?: number | undefined; modules: { id?: string | undefined; title: string; completed?: number | undefined; total?: number | undefined; lessons: { ...; }[]; }[]; }'.
+  Types of property 'modules' are incompatible.
+    Type '{ title: string; lessons: { id: string; title: string; duration: string; type: string; content: string; }[]; }[]' is not assignable to type '{ id?: string | undefined; title: string; completed?: number | undefined; total?: number | undefined; lessons: { id: string; title: string; duration?: string | undefined; type: "article" | "code" | "video" | "project"; content: string; questions?: { ...; }[] | undefined; }[]; }[]'.
+      Type '{ title: string; lessons: { id: string; title: string; duration: string; type: string; content: string; }[]; }' is not assignable to type '{ id?: string | undefined; title: string; completed?: number | undefined; total?: number | undefined; lessons: { id: string; title: string; duration?: string | undefined; type: "article" | "code" | "video" | "project"; content: string; questions?: { ...; }[] | undefined; }[]; }'.
+        Types of property 'lessons' are incompatible.
+          Type '{ id: string; title: string; duration: string; type: string; content: string; }[]' is not assignable to type '{ id: string; title: string; duration?: string | undefined; type: "article" | "code" | "video" | "project"; content: string; questions?: { id: string | number; user: string; avatar: string; ... 4 more ...; answer?: { ...; } | undefined; }[] | undefined; }[]'.
+            Type '{ id: string; title: string; duration: string; type: string; content: string; }' is not assignable to type '{ id: string; title: string; duration?: string | undefined; type: "article" | "code" | "video" | "project"; content: string; questions?: { id: string | number; user: string; avatar: string; ... 4 more ...; answer?: { ...; } | undefined; }[] | undefined; }'.
+              Types of property 'type' are incompatible.
+                Type 'string' is not assignable to type '"article" | "code" | "video" | "project"'.
+lib/dashboard-service.ts(65,35): error TS2551: Property 'appliedAt' does not exist on type 'Application'. Did you mean 'applied_at'?
+lib/dashboard-service.ts(88,26): error TS2551: Property 'appliedAt' does not exist on type 'Application'. Did you mean 'applied_at'?
+lib/resume-themes.ts(145,13): error TS2322: Type '"balanced"' is not assignable to type '"sidebar" | "full-width" | "centered"'.
+lib/resume-themes.ts(165,13): error TS2322: Type '"modern"' is not assignable to type '"sidebar" | "full-width" | "centered"'.
+lib/resume-themes.ts(185,13): error TS2322: Type '"left"' is not assignable to type '"sidebar" | "full-width" | "centered"'.
